@@ -11,7 +11,7 @@ tagline: SatSchool
 #email: your-email@domain.com
 description: >
   The website for the SatSchool outreach programme
-baseurl: "/SatSchool"
+#baseurl: "/SatSchool"
 #url: "https://satschool-outreach.github.io"
 #permalink: pretty
 #favicon: /path/to/favicon.png
