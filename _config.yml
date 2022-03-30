@@ -1,2 +1,5 @@
 # theme: bulma-clean-theme
 remote_theme: chrisrhymes/bulma-clean-theme
+
+# Change permalink theme to pretty
+permalink: pretty
