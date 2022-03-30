@@ -1,2 +1,4 @@
 # theme: bulma-clean-theme
 remote_theme: chrisrhymes/bulma-clean-theme
+
+theme: jekyll-theme-cayman
