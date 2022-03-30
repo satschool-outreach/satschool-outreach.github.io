@@ -1,4 +1,28 @@
+- name: Introduction to Earth Observation
+  link: /Modules/Intro-to-EO/
+- name: Hands on with Data
+  link: /Modules/HandsOn/
 - name: Biosphere
   link: /Modules/Biosphere/
-- name: Blog
-  link: /blog/
+- name: Cryosphere
+  link: /Modules/Cryosphere/
+- name: Atmosphere
+  link: /Modules/Atmosphere/
+- name: Oceans
+  link: /Modules/Oceans/
+
+- name: Modules
+  link: Modules/Intro-to-EO/
+  dropdown:
+  - name: Introduction to Earth Observation
+    link: /Modules/Intro-to-EO/
+  - name: Hands on with Data
+    link: /Modules/HandsOn/
+  - name: Biosphere
+    link: /Modules/Biosphere/
+  - name: Cryosphere
+    link: /Modules/Cryosphere/
+  - name: Atmosphere
+    link: /Modules/Atmosphere/
+  - name: Oceans
+    link: /Modules/Oceans/
