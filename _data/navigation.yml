@@ -15,3 +15,5 @@
     link: /Modules/Atmosphere/
   - name: Oceans
     link: /Modules/Oceans/
+- name: Contact
+  link: /Contact/
