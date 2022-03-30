@@ -20,3 +20,14 @@ description: >
 #theme_color: '#eeeeee'
 fixed_navbar: top
 #direction: one of <ltr, rtl, auto>, default: ltr
+
+exclude: 
+  - Gemfile
+  - clean-theme.gemspec
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
