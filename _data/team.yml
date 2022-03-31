@@ -8,10 +8,12 @@
         Co-founder of SatSchool, Biosphere Module Leader, Designer of SatSchool graphics and website
       ratio: is-250by200
     - link: /img/mod-logos/HandsOnWithData-07.png
-      large_link: /img/mod-logos/HandsOnWithData-07.png
-      alt: SatSchool Hands on with Data Module
-      description: The image description
-      ratio: is-16by16
+      large_link: /img/team/emily-dowd.png
+      alt: picture of Emily Dowd
+      description: |-
+        ### Emily Dowd
+        Co-founder of SatSchool, Atmosphere Module Leader, Project budgeting and communication with finance departments
+      ratio: is-250by200
     - link: /img/mod-logos/Biosphere-07.png
       large_link: /Modules/Biosphere/
       alt: The alt text for the image
