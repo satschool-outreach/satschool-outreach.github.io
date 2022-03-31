@@ -10,6 +10,7 @@ hero_darken: true
 show_sidebar: false
 callouts: module_callouts
 gallery: module-gallery
+showcase: all-modules-showcase
 ---
 
 ### SatSchool
