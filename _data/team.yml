@@ -7,17 +7,20 @@
         ### Calum Hoad
         Co-founder of SatSchool, Biosphere Module Leader, Designer of SatSchool graphics and website
       ratio: is-250by200
-    - link: /img/mod-logos/HandsOnWithData-07.png
+    - link: /img/team/emily-dowd.png
       large_link: /img/team/emily-dowd.png
       alt: picture of Emily Dowd
       description: |-
         ### Emily Dowd
         Co-founder of SatSchool, Atmosphere Module Leader, Project budgeting and communication with finance departments
       ratio: is-250by200
-    - link: /img/mod-logos/Biosphere-07.png
-      large_link: /Modules/Biosphere/
-      alt: The alt text for the image
-      ratio: is-16by16
+    - link: /img/team/sam-bancroft.png
+      #large_link: /Modules/Biosphere/
+      alt: image of Sam Bancroft
+      description: |-
+        ### Sam Bancroft
+        Hands on with Data Module Assistant, designer of the Hands on with Data website     
+      ratio: is-250by200
     - link: /img/mod-logos/Cryosphere-07.png
       large_link: /img/mod-logos/HandsOnWithData-07.png
       alt: SatSchool Cryosphere module
