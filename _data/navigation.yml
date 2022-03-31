@@ -1,7 +1,7 @@
 - name: Team
   link: /team/
 - name: Modules
-  link: Modules/Intro-to-EO/
+  link: Modules/All-Modules/
   dropdown:
   - name: Introduction to Earth Observation
     link: /Modules/Intro-to-EO/
