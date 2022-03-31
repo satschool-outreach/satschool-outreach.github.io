@@ -4,7 +4,7 @@ items:
     description: |-
       In this module you will learn about how we measure the biosphere from space using satellites. 
     image: /img/mod-logos/Biosphere-07.png
-    image_ratio: is-400by400
+    image_ratio: is-40by40
     #link: /Modules/All-Modules/
     #link_text: Get started!
     tags: Electromagnetic spectrum,False colour composites,Forest fires
