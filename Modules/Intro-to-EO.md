@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Introduction to Earth Observation
-hero_height: is-medium
+hero_height: is-large
 hero_image: /img/earthrise.JPG
 hero_darken: true
 description: Learn the basics of Earth observation with SatSchool
