@@ -1,11 +1,11 @@
 items:
   - title: SatSchool
-    subtitle: Schools EO outreach
+    subtitle: Earth observation outreach for schools
     description: |-
-      The Introduction to Earth Observation StoryMap will teach you the basics of satellites and how we use them to measure the earth.
+      SatSchool is an outreach programme for lower secondary school pupils to learn about Earth observation! The programme is designed and delivered by PhD students from SENSE CDT.
     image: /img/all-logos.png
     image_ratio: is-3507by2410
     link: https://storymaps.arcgis.com/stories/9f4633d4c06343e2bbeafd9e1982ad94
-    link_text: View the StoryMap
-    tags: EO,Intro,Satellite
+    link_text: Get started!
+    tags: Engage with Earth observation science,Learn the relevance of STEM subjects,See pathways to Earth observation careers
     #github: chrisrhymes/chrisrhymes.github.io
