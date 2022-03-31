@@ -6,7 +6,8 @@ hero_image: /img/earthrise.JPG
 hero_darken: true
 description: Learn the basics of Earth observation with SatSchool
 layout: page
-showcase: into-to-eo-showcase
+#showcase: into-to-eo-showcase
+gallery: intro-eo-gallery
 show_sidebar: false
 ---
 
