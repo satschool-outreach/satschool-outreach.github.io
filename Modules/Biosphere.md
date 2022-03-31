@@ -11,5 +11,5 @@ show_sidebar: false
 #hide_hero: true
 #callouts: module_callouts
 gallery: biosphere-gallery
-showcase: biosphere-showcase
+#showcase: biosphere-showcase
 ---
