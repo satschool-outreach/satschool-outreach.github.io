@@ -10,7 +10,7 @@ hero_darken: true
 show_sidebar: false
 hide_hero: true
 #callouts: module_callouts
-gallery: module-gallery
+#gallery: module-gallery
 showcase: all-modules-showcase
 ---
 
