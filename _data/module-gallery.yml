@@ -1,4 +1,4 @@
-- title: SatSchool Modules
+- title: 
   images:
     - link: /img/mod-logos/IntroToEO-07.png
       #large_link: /img/mod-logos/IntroToEO-07.png
@@ -8,28 +8,39 @@
         Introduction to the science of Earth observation. Learn about satellites, how they work and how we use them to measure our planet.
       ratio: is-16by16
     - link: /img/mod-logos/HandsOnWithData-07.png
-      large_link: /img/mod-logos/HandsOnWithData-07.png
+      #large_link: /img/mod-logos/HandsOnWithData-07.png
       alt: SatSchool Hands on with Data Module
-      description: The image description
+      description: |-
+        ### [Hands on with Data](/Modules/HandsOn/)
+        Get hands on with satellite data! Learn how to manipulate and understand data from satellites in a range of contexts.
       ratio: is-16by16
     - link: /img/mod-logos/Biosphere-07.png
-      large_link: /Modules/Biosphere/
+      #large_link: /Modules/Biosphere/
       alt: The alt text for the image
+      description: |-
+        ### [Biosphere](/Modules/Biosphere/)
+        Learn how we use satellite data to measure the living parts of our planet.
       ratio: is-16by16
     - link: /img/mod-logos/Cryosphere-07.png
-      large_link: /img/mod-logos/HandsOnWithData-07.png
+      #large_link: /img/mod-logos/HandsOnWithData-07.png
       alt: SatSchool Cryosphere module
-      description: The image description
+      description: |-
+        ### [Cryosphere](/Modules/Cryosphere/)
+        Learn how we use satellite data to measure glaciers and ice sheets.     
       ratio: is-16by16
     - link: /img/mod-logos/Atmosphere-07.png
-      large_link: /img/mod-logos/HandsOnWithData-07.png
+      #large_link: /img/mod-logos/HandsOnWithData-07.png
       alt: SatSchool Atmosphere module
-      description: The image description
+      description: |-
+        ### [Atmosphere](/Modules/Atmosphere/)
+        Learn how we use satellite data to measure the atmosphere around our planet. 
       ratio: is-16by16      
     - link: /img/mod-logos/Oceans-07.png
-      large_link: /img/mod-logos/HandsOnWithData-07.png
+      #large_link: /img/mod-logos/HandsOnWithData-07.png
       alt: SatSchool Oceans module
-      description: The image description
+      description: |-
+        ### [Oceans](/Modules/Oceans/)
+        Learn how we use satellite data to measure the oceans. 
       ratio: is-16by16      
       
 
