@@ -1,7 +1,7 @@
 - title: SatSchool Modules
   images:
     - link: /img/mod-logos/IntroToEO-07.png
-      large_link: /img/mod-logos/IntroToEO-07.png
+      #large_link: /img/mod-logos/IntroToEO-07.png
       alt: SatSchool Introduction to Earth Observation Module
       description: The image description
       ratio: is-16by16
@@ -10,13 +10,30 @@
       alt: SatSchool Hands on with Data Module
       description: The image description
       ratio: is-16by16
-    - link: https://via.placeholder.com/400x300
-      large_link: https://via.placeholder.com/1200x900
+    - link: /img/mod-logos/Biosphere-07.png
+      large_link: /Modules/Biosphere/
       alt: The alt text for the image
-      description: |-
+      #description: |-
         ### A title
         The *image* **description** can be longer and written in markdown too.
         If you want to describe your image in more detail.
         * Item 1
         * Item 2
       ratio: is-16by16
+    - link: /img/mod-logos/Cryosphere-07.png
+      #large_link: /img/mod-logos/HandsOnWithData-07.png
+      alt: SatSchool Cryosphere module
+      description: The image description
+      ratio: is-16by16
+    - link: /img/mod-logos/Atmosphere-07.png
+      #large_link: /img/mod-logos/HandsOnWithData-07.png
+      alt: SatSchool Atmosphere module
+      description: The image description
+      ratio: is-16by16      
+    - link: /img/mod-logos/Oceans-07.png
+      #large_link: /img/mod-logos/HandsOnWithData-07.png
+      alt: SatSchool Oceans module
+      description: The image description
+      ratio: is-16by16      
+      
+
