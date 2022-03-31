@@ -4,7 +4,7 @@
       #large_link: /img/mod-logos/IntroToEO-07.png
       alt: Biosphere logo
       description: |-
-        ### Biosphere
+        ### Welcome to the Biosphere module
         Learn how we use satellite data to measure the living parts of our planet.
         In this module you will learn about how we measure the biosphere from space using satellites.
         You will learn about
@@ -41,7 +41,7 @@
       #large_link: /img/mod-logos/IntroToEO-07.png
       alt: Google Docs logo
       description: |-
-        ### [Canva Presentation Slides](/Modules/Biosphere/)
+        ### [Documentation in Google Docs](/Modules/Biosphere/)
         Find the documentation for teachers and PhD students here.
         
       ratio: is-16by16
