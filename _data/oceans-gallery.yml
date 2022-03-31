@@ -1,0 +1,47 @@
+- title:
+  images:
+    - link: /img/mod-logos/Oceans-07.png
+      #large_link: /img/mod-logos/IntroToEO-07.png
+      alt: Oceans logo
+      description: |-
+        ### Welcome to the Oceans module
+        Learn how we use satellite data to measure the living parts of our planet.
+        In this module you will learn about how we measure the biosphere from space using satellites.
+        You will learn about
+        * Electromagnetic spectrum
+        * False colour composites
+        * Forest fires
+        
+      ratio: is-16by16
+
+- title: Resources
+  images:
+    - link: /img/storymap-img/biosphere-storymap.png
+      #large_link: /img/mod-logos/IntroToEO-07.png
+      alt: Biosphere storymap image
+      description: |-
+        ### [Biosphere Storymap](/Modules/Biosphere/)
+        Learn how we use satellite data to measure the living parts of our planet.
+        In this module you will learn about how we measure the biosphere from space using satellites.
+        You will learn about
+        * Electromagnetic spectrum
+        * False colour composites
+        * Forest fires
+        
+      ratio: is-16by16
+    - link: /img/canva-logo.png
+      #large_link: /img/mod-logos/IntroToEO-07.png
+      alt: Canva logo
+      description: |-
+        ### [Canva Presentation Slides](/Modules/Biosphere/)
+        Find the slides here for the Biosphere classroom presentation.
+        
+      ratio: is-16by16
+    - link: /img/google-doc.png
+      #large_link: /img/mod-logos/IntroToEO-07.png
+      alt: Google Docs logo
+      description: |-
+        ### [Documentation in Google Docs](/Modules/Biosphere/)
+        Find the documentation for teachers and PhD students here.
+        
+      ratio: is-16by16
