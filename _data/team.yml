@@ -14,6 +14,13 @@
         ### Emily Dowd
         Co-founder of SatSchool, Atmosphere Module Leader, Project budgeting and communication with finance departments
       ratio: is-250by200
+    - link: /img/team/sol-white.png
+      #large_link: /Modules/Biosphere/
+      alt: image of Sol White
+      description: |-
+        ### Sol White
+        Hands on with Data Module Lead.     
+      ratio: is-250by200 
     - link: /img/team/sam-bancroft.png
       #large_link: /Modules/Biosphere/
       alt: image of Sam Bancroft
