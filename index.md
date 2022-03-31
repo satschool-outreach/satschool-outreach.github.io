@@ -9,6 +9,7 @@ hero_image: /img/ShetlandIslands.jpg
 hero_darken: true
 show_sidebar: false
 callouts: module_callouts
+gallery: module-gallery
 ---
 
 ### SatSchool
