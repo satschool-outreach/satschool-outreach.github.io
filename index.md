@@ -5,7 +5,8 @@ subtitle: Earth observation outreach in schools
 hero_height: is-large
 #hero_link: /page-1/
 #hero_link_text: Example Call To Action
-hero_image: /satschool-outreach.github.io/img/ShetlandIslands.jpg
+hero_image: /img/ShetlandIslands.jpg
+hero_darken: true
 show_sidebar: false
 callouts: module_callouts
 ---
