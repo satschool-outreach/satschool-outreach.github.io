@@ -1,0 +1,11 @@
+items:
+  - title: Biosphere
+    subtitle: Learn how we use satellite data to measure the living parts of our planet.
+    description: |-
+      In this module you will learn about how we measure the biosphere from space using satellites. 
+    image: /img/mod-logos/Biosphere-07.png
+    image_ratio: is-400by400
+    #link: /Modules/All-Modules/
+    #link_text: Get started!
+    tags: Electromagnetic spectrum,False colour composites,Forest fires
+    #github: chrisrhymes/chrisrhymes.github.io
