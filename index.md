@@ -13,7 +13,3 @@ hide_hero: true
 #gallery: module-gallery
 showcase: all-modules-showcase
 ---
-
-### SatSchool
-
-This is the home page for SatSchool
