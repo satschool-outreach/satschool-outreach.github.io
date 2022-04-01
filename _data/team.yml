@@ -14,6 +14,13 @@
         ### Emily Dowd
         Co-founder of SatSchool, Atmosphere Module Leader, Project budgeting and communication with finance departments
       ratio: is-250by200
+    - link: /img/team/morag-fotheringham-02.png
+      #large_link: /Modules/Biosphere/
+      alt: image of Morag Fotheringham
+      description: |-
+        ### Morag Fotheringham
+        Co-founder of SatSchool, Cryosphere Module Lead   
+      ratio: is-250by200
     - link: /img/team/sol-white.png
       #large_link: /Modules/Biosphere/
       alt: image of Sol White
@@ -21,25 +28,47 @@
         ### Sol White
         Hands on with Data Module Lead.     
       ratio: is-250by200 
+    - link: /img/team/penny-clarke-02.png
+      #large_link: /Modules/Biosphere/
+      alt: image of Penny Clarke
+      description: |-
+        ### Penny Clarke
+        Oceans Module Leader
+    - link: /img/team/jess-payne-02.png
+      #large_link: /Modules/Biosphere/
+      alt: image of Jess Payne
+      description: |-
+        ### Jess Payne
+        Biosphere Module Assistant        
+    - link: /img/team/ashar-aslam-02.png
+      #large_link: /Modules/Biosphere/
+      alt: image of Ashar Aslam
+      description: |-
+        ### Ashar Aslam
+        Atmosphere Module Assistant 
+    - link: /img/team/jenny-cocks-02.png
+      #large_link: /Modules/Biosphere/
+      alt: image of Jenny Cocks
+      description: |-
+        ### Jenny Cocks
+        Oceans Module Assistent         
     - link: /img/team/sam-bancroft.png
       #large_link: /Modules/Biosphere/
       alt: image of Sam Bancroft
       description: |-
         ### Sam Bancroft
         Hands on with Data Module Assistant, designer of the Hands on with Data website     
+      ratio: is-250by200      
+    - link: /img/team/megan-udy-02.png
+      #large_link: /Modules/Biosphere/
+      alt: image of Megan Udy
+      description: |-
+        ### Megan Udy
+        Intro to Earth Observation Module Assistant    
       ratio: is-250by200
-    - link: /img/mod-logos/Cryosphere-07.png
-      large_link: /img/mod-logos/HandsOnWithData-07.png
-      alt: SatSchool Cryosphere module
-      description: The image description
-      ratio: is-16by16
-    - link: /img/mod-logos/Atmosphere-07.png
-      large_link: /img/mod-logos/HandsOnWithData-07.png
-      alt: SatSchool Atmosphere module
-      description: The image description
-      ratio: is-16by16      
-    - link: /img/mod-logos/Oceans-07.png
-      large_link: /img/mod-logos/HandsOnWithData-07.png
-      alt: SatSchool Oceans module
-      description: The image description
-      ratio: is-16by16 
+    - link: /img/team/ross-slater-02.png
+      #large_link: /Modules/Biosphere/
+      alt: image of Ross Slater
+      description: |-
+        ### Ross Slater
+        Cryosphere Module Assistant      
