@@ -5,12 +5,12 @@
       alt: Cryosphere logo
       description: |-
         ### Welcome to the Cryosphere module
-        Learn how we use satellite data to measure the living parts of our planet.
-        In this module you will learn about how we measure the biosphere from space using satellites.
+        Learn how we use satellite data to measure the icy parts of our planet.
+        In this module you will learn about how we measure the cryosphere from space using satellites.
         You will learn about
         * Electromagnetic spectrum
-        * False colour composites
-        * Forest fires
+        * RADAR
+        * Reaction of the cryosphere to climate change
         
       ratio: is-16by16
 
@@ -20,9 +20,35 @@
       #large_link: /img/mod-logos/IntroToEO-07.png
       alt: Biosphere storymap image
       description: |-
-        ### [Biosphere Storymap](/Modules/Biosphere/)
+        ### [Cryosphere Storymap: Introduction](https://storymaps.arcgis.com/stories/88468806ee0c478dae9bab2f6adb380e)
         Learn how we use satellite data to measure the living parts of our planet.
         In this module you will learn about how we measure the biosphere from space using satellites.
+        You will learn about
+        * Electromagnetic spectrum
+        * False colour composites
+        * Forest fires
+        
+  images:
+    - link: /img/storymap-img/biosphere-storymap.png
+      #large_link: /img/mod-logos/IntroToEO-07.png
+      alt: Biosphere storymap image
+      description: |-
+        ### [Cryosphere Storymap: The Antarctic](https://storymaps.arcgis.com/stories/3bccba89dad7440baaa3afc97cd1359f)
+        Learn how we use satellite data to measure the Anarctic, located at the southern pole of our planet.
+        In this module you will learn about how we measure the biosphere from space using satellites.
+        You will learn about
+        * Electromagnetic spectrum
+        * False colour composites
+        * Forest fires
+        
+  images:
+    - link: /img/storymap-img/biosphere-storymap.png
+      #large_link: /img/mod-logos/IntroToEO-07.png
+      alt: Biosphere storymap image
+      description: |-
+        ### [Cryosphere Storymap: The Arctic](https://storymaps.arcgis.com/stories/b87181bc7a5943fb9e4d2268d2ead646)
+        Learn how we use satellite data to measure the Arctic, located at the northern pole of our planet.
+        In this module you will learn about how we measure the Arctic from space using satellites.
         You will learn about
         * Electromagnetic spectrum
         * False colour composites
@@ -33,8 +59,8 @@
       #large_link: /img/mod-logos/IntroToEO-07.png
       alt: Canva logo
       description: |-
-        ### [Canva Presentation Slides](/Modules/Biosphere/)
-        Find the slides here for the Biosphere classroom presentation.
+        ### [Canva Presentation Slides](https://www.canva.com/design/DAE5FKNix28/GqORP52CY7TvKzYbrt0fWA/view?utm_content=DAE5FKNix28&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+        Find the slides here for the Cryosphere classroom presentation.
         
       ratio: is-16by16
     - link: /img/google-doc.png
