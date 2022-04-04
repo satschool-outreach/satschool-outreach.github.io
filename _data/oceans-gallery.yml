@@ -20,7 +20,43 @@
       #large_link: /img/mod-logos/IntroToEO-07.png
       alt: Biosphere storymap image
       description: |-
-        ### [Biosphere Storymap](/Modules/Biosphere/)
+        ### [The Ocean from Space StoryMap](https://storymaps.arcgis.com/stories/c2dfbc9adeb74d14ba7afd42641ac1b0)
+        Learn how we use satellite data to measure the living parts of our planet.
+        In this module you will learn about how we measure the biosphere from space using satellites.
+        You will learn about
+        * Electromagnetic spectrum
+        * False colour composites
+        * Forest fires
+        
+    - link: /img/storymap-img/biosphere-storymap.png
+      #large_link: /img/mod-logos/IntroToEO-07.png
+      alt: Biosphere storymap image
+      description: |-
+        ### [Spying on Whales from Space StoryMap](https://storymaps.arcgis.com/stories/a5ba1207efc8450a90053c16f8000556)
+        Learn how we use satellite data to measure the living parts of our planet.
+        In this module you will learn about how we measure the biosphere from space using satellites.
+        You will learn about
+        * Electromagnetic spectrum
+        * False colour composites
+        * Forest fires
+        
+    - link: /img/storymap-img/biosphere-storymap.png
+      #large_link: /img/mod-logos/IntroToEO-07.png
+      alt: Biosphere storymap image
+      description: |-
+        ### [Ocean Colour from Space StoryMap](https://storymaps.arcgis.com/stories/9fc876e4453f42c4b7dca1e4d532e552)
+        Learn how we use satellite data to measure the living parts of our planet.
+        In this module you will learn about how we measure the biosphere from space using satellites.
+        You will learn about
+        * Electromagnetic spectrum
+        * False colour composites
+        * Forest fires
+        
+    - link: /img/storymap-img/biosphere-storymap.png
+      #large_link: /img/mod-logos/IntroToEO-07.png
+      alt: Biosphere storymap image
+      description: |-
+        ### [Warm and Salty Oceans from Space StoryMap](https://storymaps.arcgis.com/stories/2170fe5391ea4723ba72413335569cc9)
         Learn how we use satellite data to measure the living parts of our planet.
         In this module you will learn about how we measure the biosphere from space using satellites.
         You will learn about
@@ -33,7 +69,7 @@
       #large_link: /img/mod-logos/IntroToEO-07.png
       alt: Canva logo
       description: |-
-        ### [Canva Presentation Slides](/Modules/Biosphere/)
+        ### [Canva Presentation Slides](https://www.canva.com/design/DAE8feBoacU/WK_1-_sA0QnBX-nOlDqviQ/edit?utm_content=DAE8feBoacU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
         Find the slides here for the Biosphere classroom presentation.
         
       ratio: is-16by16
