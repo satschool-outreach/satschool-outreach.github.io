@@ -28,7 +28,6 @@
         * False colour composites
         * Forest fires
         
-  images:
     - link: /img/storymap-img/biosphere-storymap.png
       #large_link: /img/mod-logos/IntroToEO-07.png
       alt: Biosphere storymap image
@@ -41,7 +40,6 @@
         * False colour composites
         * Forest fires
         
-  images:
     - link: /img/storymap-img/biosphere-storymap.png
       #large_link: /img/mod-logos/IntroToEO-07.png
       alt: Biosphere storymap image
