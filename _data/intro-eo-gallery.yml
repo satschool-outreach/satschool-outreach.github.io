@@ -20,13 +20,12 @@
       #large_link: /img/mod-logos/IntroToEO-07.png
       alt: Biosphere storymap image
       description: |-
-        ### [Biosphere Storymap](/Modules/Biosphere/)
-        Learn how we use satellite data to measure the living parts of our planet.
-        In this module you will learn about how we measure the biosphere from space using satellites.
-        You will learn about
-        * Electromagnetic spectrum
-        * False colour composites
-        * Forest fires
+        ### [StoryMap 1: Earth Observation Overview](https://storymaps.arcgis.com/stories/9f4633d4c06343e2bbeafd9e1982ad94)
+        This StoryMap aims to introduce the concept of Earth Observation and how scientists use satellites to measure the Earth from space! 
+        We're going to cover:
+        * What is Earth Observation?
+        * What is a satellite? 
+        * What can we measure with Earth Observation? 
     - link: /img/storymap-img/biosphere-storymap.png
       #large_link: /img/mod-logos/IntroToEO-07.png
       alt: Biosphere storymap image
