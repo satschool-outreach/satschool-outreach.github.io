@@ -20,37 +20,27 @@
       #large_link: /img/mod-logos/IntroToEO-07.png
       alt: Biosphere storymap image
       description: |-
-        ### [StoryMap 1: Earth Observation Overview](https://storymaps.arcgis.com/stories/9f4633d4c06343e2bbeafd9e1982ad94)
-        This StoryMap aims to introduce the concept of Earth Observation and how scientists use satellites to measure the Earth from space! 
-        We're going to cover:
-        * What is Earth Observation?
-        * What is a satellite? 
-        * What can we measure with Earth Observation? 
-    - link: /img/storymap-img/biosphere-storymap.png
-      #large_link: /img/mod-logos/IntroToEO-07.png
-      alt: Biosphere storymap image
-      description: |-
-        ### [Intro to EO StoryMap 2](/Modules/Biosphere/)
-        Learn how we use satellite data to measure the living parts of our planet.
-        In this module you will learn about how we measure the biosphere from space using satellites.
-        You will learn about
-        * Electromagnetic spectrum
-        * False colour composites
-        * Forest fires        
+        ### [Introduction to EO StoryMap Collection](https://arcg.is/1GSKWv)
+        This StoryMap collection aims to introduce the concept of Earth Observation and how scientists use satellites to measure the Earth from space! 
+        The four StoryMaps cover these topics: 
+        * Introduction to Earth Observation
+        * Satellites and orbits 
+        * Satellite sensors 
+        * Image resolution       
       ratio: is-16by16
     - link: /img/canva-logo.png
       #large_link: /img/mod-logos/IntroToEO-07.png
       alt: Canva logo
       description: |-
-        ### [Canva Presentation Slides](/Modules/Biosphere/)
-        Find the slides here for the Biosphere classroom presentation.
+        ### [Canva Presentation Slides](https://www.canva.com/design/DAE8891Idao/2JlS5S4pEMz0piKBSi26cw/view?utm_content=DAE8891Idao&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+        Find the slides here to be used for an assembly or classroom presentation giving an introduction to Earth Observation (view/present only). 
         
       ratio: is-16by16
     - link: /img/google-doc.png
       #large_link: /img/mod-logos/IntroToEO-07.png
       alt: Google Docs logo
       description: |-
-        ### [Documentation in Google Docs](/Modules/Biosphere/)
-        Find the documentation for teachers and PhD students here.
+        ### [Documentation in Google Docs](https://drive.google.com/drive/folders/1GC5jfu7TOLIbqUcbUqy8qK8J-553Y46r?usp=sharing)
+        Find the user documentation here, including guidance instructions for delivering the module in the classroom and student worksheets + answers.
         
       ratio: is-16by16
