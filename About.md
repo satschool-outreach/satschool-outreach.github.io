@@ -15,3 +15,6 @@ show_sidebar: false
 ---
 
 Bryony put text here using markdown formatting - see https://www.markdownguide.org/basic-syntax/
+
+<br/>
+![SatSchool footer](/img/satschool-footer.png "SatSchool footer")
