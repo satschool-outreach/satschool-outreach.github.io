@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Get in touch!
-subtitle: Earth observation outreach in schools
+#subtitle: Earth observation outreach in schools
 hero_height: is-large
 #hero_link: /page-1/
 #hero_link_text: Example Call To Action
