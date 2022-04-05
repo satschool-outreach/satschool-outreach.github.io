@@ -28,11 +28,12 @@ show_sidebar: false
   * Cross-curricular classroom sessions covering a range of Earth Observation-related topics (see Modules page)
   * Sessions can run either for a particular class or year group, or as a longer enrichment day of activities
 * Our Earth Observation ambassadors are currently based in Edinburgh, Leeds, Liverpool and Cambridge (but this network will hopefully expand!)
+* A school visit from an Earth Observation ambassador will provide visible a role model for your students, who can open their eyes to environmental sciences and how a wide range of STEM subjects studied at school are relevant for a career in this field!  
 
 # What does SatSchool teach? 
 
-## The Six Modules 
-The SatSchool resources span six individual modules, each containing 2 - 4 hours worth of presentations and interactive activities divided into 30-60 minute session plans. The six modules include: 
+## Earth Observation and Environmental Science 
+The SatSchool resources include six individual modules, spanning a range of topics in environmental science: 
 * Introduction to Earth Observation 
 * Hands on with Data 
 * Cryosphere 
@@ -44,11 +45,13 @@ The SatSchool resources span six individual modules, each containing 2 - 4 hours
 
 # What is in each SatSchool module? 
 
+Each SatSchool module contains 2 - 4 hours worth of presentations and interactive activities divided into 30-60 minute session plans.
+
 ## Module Structure
-All modules are structured slightly differently, but each contain:
+All modules are structured slightly differently, but contain:
 * Slides for an introductory presentation
 * Classroom session plans (each 30-60 minutes), including:
-  * Interactive ArcGIS StoryMap collection that students can work through on their own screen (computer / tablets / phone) or that can be led through by a presenter on a single larger screen. Each single StoryMap is estimated to take around 30-60 minutes to work through and complete, and each collection can stand alone or they can be used together to explore and understand the wide range of Earth Observation applications.
+  * Interactive ArcGIS StoryMap collection that students can work through on their own screen (computer / tablets / phone) or that can be led through by a presenter on a single larger screen. Each single StoryMap in the collection is estimated to take around 30-60 minutes to work through and complete. Each collection can stand alone or they can be used together to explore and understand the wide range of Earth Observation applications.
   * Worksheet print-outs out for students to complete during the sessions (answers provided). 
   * Interactive web app (Hands on with Data module only) that allows students to run their own experiments with satellite data, including running some basic code.
 
