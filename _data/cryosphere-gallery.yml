@@ -1,16 +1,16 @@
 - title:
   images:
-    - link: /img/mod-logos/Cryosphere-07.png
+    - link: /img/mod-logos/Biosphere-07.png
       #large_link: /img/mod-logos/IntroToEO-07.png
-      alt: Cryosphere logo
+      alt: Biosphere logo
       description: |-
-        ### Welcome to the Cryosphere module
-        Learn how we use satellite data to measure the icy parts of our planet.
-        In this module you will learn about how we measure the cryosphere from space using satellites.
+        ### Welcome to the Biosphere module
+        Learn how we use satellite data to measure the living parts of our planet.
+        In this module you will learn about how we measure the biosphere from space using satellites.
         You will learn about
         * Electromagnetic spectrum
-        * RADAR and LiDAR
-        * Reaction of the cryosphere to climate change
+        * False colour composites
+        * Forest fires
         
       ratio: is-16by16
 
@@ -20,15 +20,16 @@
       #large_link: /img/mod-logos/IntroToEO-07.png
       alt: Biosphere storymap image
       description: |-
-        ### [The Cryosphere from Space StoryMap Collection](https://storymaps.arcgis.com/collections/48a40a6c28ff4996a42ee042d303012c)
-       This StoryMap Collection aims to introduce methods sed to observe the icy regions of our planet. 
-       The three StoryMaps included are
-        * An introduction
-        * The Antarctic
-        * The Arctic
-        
+        ### [Biosphere Storymap](/Modules/Biosphere/)
+        Learn how we use satellite data to measure the living parts of our planet.
+        In this module you will learn about how we measure the biosphere from space using satellites.
+        You will learn about
+        * Electromagnetic spectrum
+        * False colour composites
+        * Forest fires
         
       ratio: is-16by16
+      
     - link: /img/canva-logo.png
       #large_link: /img/mod-logos/IntroToEO-07.png
       alt: Canva logo
