@@ -10,4 +10,5 @@ show_sidebar: false
 #callouts: module_callouts
 gallery: team
 ---
-Intro here?
+
+![SatSchool footer](/img/satschool-footer.png "SatSchool footer")
