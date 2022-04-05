@@ -9,7 +9,7 @@
         In this module you will learn about how we measure the cryosphere from space using satellites.
         You will learn about
         * Electromagnetic spectrum
-        * RADAR
+        * RADAR and LiDAR
         * Reaction of the cryosphere to climate change
         
       ratio: is-16by16
@@ -20,13 +20,13 @@
       #large_link: /img/mod-logos/IntroToEO-07.png
       alt: Biosphere storymap image
       description: |-
-        ### [THe Cryosphere from Space StoryMap Collection](https://storymaps.arcgis.com/collections/48a40a6c28ff4996a42ee042d303012c)
-        Learn how we use satellite data to measure the icy parts of our planet.
-        In this module you will learn about how we measure the cryosphere from space using satellites.
-        You will learn about
-        * Electromagnetic spectrum
-        * OPtical Imagery
-        * RADAR versus LIDAR
+        ### [The Cryosphere from Space StoryMap Collection](https://storymaps.arcgis.com/collections/48a40a6c28ff4996a42ee042d303012c)
+       This StoryMap Collection aims to introduce atmospheric composition and weather concepts and how we view them from space. The two StoryMaps cover these topics:
+       This StoryMap Collection aims to introduce methods sed to observe the icy regions of our planet. 
+       The three StoryMaps included are
+        * An introduction
+        * The Antarctic
+        * The Arctic
         
         
       ratio: is-16by16
