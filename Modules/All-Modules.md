@@ -14,4 +14,4 @@ gallery: module-gallery
 #showcase: all-modules-showcase
 ---
 
-The text about the modules will appear here if in the markdown.
+![SatSchool footer](/img/satschool-footer.png "SatSchool footer")
