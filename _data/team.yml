@@ -14,6 +14,13 @@
         ### Emily Dowd
         Co-founder of SatSchool, Atmosphere Module Leader, Project budgeting and communication with finance departments
       ratio: is-250by200
+    - link: /img/team/bryony-freer.png
+      #large_link: /img/team/emily-dowd.png
+      alt: picture of Bryony Freer
+      description: |-
+        ### Bryony Freer
+        Co-founder of SatSchool, Intro to Earth Observation Module Leader
+      ratio: is-250by200     
     - link: /img/team/morag-fotheringham-02.png
       #large_link: /Modules/Biosphere/
       alt: image of Morag Fotheringham
