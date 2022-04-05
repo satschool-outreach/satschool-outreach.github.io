@@ -4,10 +4,13 @@
       #large_link: /img/mod-logos/IntroToEO-07.png
       alt: Oceans logo
       description: |-
-        ### Welcome to the Oceans module
-        The oceans are the foundation of all life on Earth, and our planet ecosystems depends on the health of the oceans to support and sustain it. 
-        The Ocean from Space StoryMap collection explores why the oceans are important and how Earth Observation is helping to increase monitoring efforts 
-        at a global scale. This collection of StoryMaps is a cross-curricular dive into our oceans from space; exploring Geographical Information Systems (GIS), environmental/ocean geography, ocean biology and ocean physics. The collection is comprised of a 10 minute introduction, The Oceans from Space, along with one of three more in depth 40 minute StoryMaps.
+        ### Welcome to the Cryosphere module
+        Learn how we use satellite data to measure the oceans of our planet.
+        In this module you will learn about how we measure the oceans from space using satellites.
+        You will learn about
+        * Electromagnetic spectrum
+        * How to spot wildlife from space
+        * How ocean properties are observed
         
       ratio: is-16by16
 
