@@ -1,5 +1,3 @@
-- name: Team
-  link: /team/
 - name: Modules
   link: Modules/All-Modules/
   dropdown:
@@ -15,5 +13,9 @@
     link: /Modules/Atmosphere/
   - name: Oceans
     link: /Modules/Oceans/
+- name: About
+  link: /About/
+- name: Team
+  link: /team/    
 - name: Contact
   link: /Contact/
