@@ -41,7 +41,7 @@ The SatSchool resources include six individual modules, spanning a range of topi
 * Atmosphere
 * Oceans 
 
-*Discover the SatSchool resources on the [Modules](/Modules/) page*
+*Discover the SatSchool resources on the [Modules](/Modules/All-Modules) page*
 
 # What is in each SatSchool module? 
 
@@ -59,7 +59,7 @@ All modules are structured slightly differently, but contain:
 ## Equipment / Software Requirements 
 
 ### Software 
-* No specialist software is required for any of the SatSchool resources. Everything can be accessed directly in the browser via the links on the [Modules](/Modules/) page.
+* No specialist software is required for any of the SatSchool resources. Everything can be accessed directly in the browser via the links on the [Modules](/Modules/All-Modules) page.
 * The majority of resources are presented as ArcGIS storymaps, which can be run in any web browser and include a mixture of text, images, video, interactive GIS, mapping and data analysis 
 
 
