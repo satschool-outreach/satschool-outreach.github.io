@@ -11,7 +11,7 @@ show_sidebar: false
 hide_hero: true
 #callouts: module_callouts
 showcase: all-modules-showcase
-gallery: footer-image
+#gallery: footer-image
 ---
 
-
+![SatSchool footer](/img/satschool-footer.png "SatSchool footer")
