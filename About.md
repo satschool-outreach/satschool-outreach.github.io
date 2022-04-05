@@ -16,12 +16,12 @@ show_sidebar: false
 
 # What does SatSchool offer? 
 
-## For Earth Observation Students / Researchers / Professionals
+### For Earth Observation Students / Researchers / Professionals
 * Save time with 12+ hours of ready-made resources to use when conducting Earth Observation outreach in schools
 * All resources are tailored to the Key Stage 3 / S1-3 curriculum, and were developed with consultation from specialist teachers
 * A network of other EO ambassadors with experience conducting school visits 
 
-## For Teachers / Educators 
+### For Teachers / Educators 
 * 12+ hours of freely-available resources and lesson plans to teach Earth Observation topics tailored to the Key Stage 3 / S1-3 curriculum (also applicable to KS4 and 5). 
 * A network of Earth Observation ambassadors available to contact and arrange school visits. School visits can include:
   * An assembly-style talk
@@ -32,7 +32,7 @@ show_sidebar: false
 
 # What does SatSchool teach? 
 
-## Earth Observation and Environmental Science 
+### Earth Observation and Environmental Science 
 The SatSchool resources include six individual modules, spanning a range of topics in environmental science: 
 * Introduction to Earth Observation 
 * Hands on with Data 
@@ -47,7 +47,7 @@ The SatSchool resources include six individual modules, spanning a range of topi
 
 Each SatSchool module contains 2 - 4 hours worth of presentations and interactive activities divided into 30-60 minute session plans.
 
-## Module Structure
+### Module Structure
 All modules are structured slightly differently, but contain:
 * Slides for an introductory presentation
 * Classroom session plans (each 30-60 minutes), including:
