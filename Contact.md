@@ -21,6 +21,7 @@ show_sidebar: false
 
 ### You can get in touch with us at: [satschool.outreach@gmail.com](mailto:satschool.outreach@gmail.com)
 
+<br/><br/><br/><br/><br/>
 
 
 ![SatSchool footer](/img/satschool-footer.png "SatSchool footer")
