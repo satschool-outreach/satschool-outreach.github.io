@@ -5,43 +5,42 @@
       alt: Hands on with data logo
       description: |-
         ### Welcome to the Hands on with Data module
-        Learn how we use satellite data to measure the living parts of our planet.
-        In this module you will learn about how we measure the biosphere from space using satellites.
-        You will learn about
-        * Electromagnetic spectrum
-        * False colour composites
-        * Forest fires
+        In this module you will learn how to manipulate and understand data from satellites in a range of environmental contexts. It's your chance to get hands on with satellite data! 
+        Subject links: Computer Science, Geography, Maths
+        You will learn: 
+        * How scientists work with satellite data to better understand different parts of the Earth system
+        * How to work with different kinds of satellite data yourself and the types of information it contains
+        * How to interpret maps and graphs displaying different types of environmental data 
         
       ratio: is-16by16
 
 - title: Resources
   images:
     - link: /img/storymap-img/biosphere-storymap.png
-      #large_link: /img/mod-logos/IntroToEO-07.png
+      #large_link: /img/mod-logos/HandsOnWithData-07.png
       alt: Biosphere storymap image
       description: |-
-        ### [Biosphere Storymap](/Modules/Biosphere/)
-        Learn how we use satellite data to measure the living parts of our planet.
-        In this module you will learn about how we measure the biosphere from space using satellites.
-        You will learn about
-        * Electromagnetic spectrum
-        * False colour composites
-        * Forest fires
+        ### [Hands on With Data - Interactive Web App](https://share.streamlit.io/spiruel/satschool/main/app.py?token=zoa142)
+        Work your way through these step-by-step activities to get hands on with some satellite data. 
+        You will get the chance to:
+        * Map deforestation in Brazil and make your own time-lapse animation!
+        * Investigate changes in sea surface temperatures over the past 20 years and its impact on marine ecosystems 
+        * Learn some basic coding skills to investigate the retreat of a glacier in Antarctica 
         
       ratio: is-16by16
     - link: /img/canva-logo.png
       #large_link: /img/mod-logos/IntroToEO-07.png
       alt: Canva logo
       description: |-
-        ### [Canva Presentation Slides](/Modules/Biosphere/)
-        Find the slides here for the Biosphere classroom presentation.
+        ### [Canva Presentation Slides](https://www.canva.com/design/DAE50oyKRyM/vIUhgG5oV0E879NAUdc7EQ/edit)
+        Find the slides here for the Hands on with Data classroom presentation.
         
       ratio: is-16by16
     - link: /img/google-doc.png
       #large_link: /img/mod-logos/IntroToEO-07.png
       alt: Google Docs logo
       description: |-
-        ### [Documentation in Google Docs](/Modules/Biosphere/)
-        Find the documentation for teachers and PhD students here.
+        ### [Module Documentation](/Modules/Biosphere/)
+        Find the module documentation here, including detailed instructions and worksheets.
         
       ratio: is-16by16
