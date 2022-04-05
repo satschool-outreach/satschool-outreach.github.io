@@ -14,6 +14,7 @@
       description: |-
         ### [Hands on with Data](/Modules/HandsOn/)
         Get hands on with satellite data! Learn how to manipulate and understand data from satellites in a range of contexts.
+        **Subject links: Computer Science, Geography, Maths**
       ratio: is-16by16
     - link: /img/mod-logos/Biosphere-07.png
       #large_link: /Modules/Biosphere/
@@ -21,27 +22,31 @@
       description: |-
         ### [Biosphere](/Modules/Biosphere/)
         Learn how we use satellite data to measure the living parts of our planet.
+        **Subject links: Geography, Biology, Physics**
       ratio: is-16by16
     - link: /img/mod-logos/Cryosphere-07.png
       #large_link: /img/mod-logos/HandsOnWithData-07.png
       alt: SatSchool Cryosphere module
       description: |-
         ### [Cryosphere](/Modules/Cryosphere/)
-        Learn how we use satellite data to measure glaciers and ice sheets.     
+        Learn how we use satellite data to measure glaciers and ice sheets.
+        **Subject links: Geography, Physics**
       ratio: is-16by16
     - link: /img/mod-logos/Atmosphere-07.png
       #large_link: /img/mod-logos/HandsOnWithData-07.png
       alt: SatSchool Atmosphere module
       description: |-
         ### [Atmosphere](/Modules/Atmosphere/)
-        Learn how we use satellite data to measure the atmosphere around our planet. 
+        Learn how we use satellite data to measure the atmosphere around our planet.
+        **Subject links: Chemistry, Geography, Physics**
       ratio: is-16by16      
     - link: /img/mod-logos/Oceans-07.png
       #large_link: /img/mod-logos/HandsOnWithData-07.png
       alt: SatSchool Oceans module
       description: |-
         ### [Oceans](/Modules/Oceans/)
-        Learn how we use satellite data to measure the oceans. 
+        Learn how we use satellite data to measure the oceans.
+        **Subject links: Geography, Biology, Physics**
       ratio: is-16by16      
       
 
