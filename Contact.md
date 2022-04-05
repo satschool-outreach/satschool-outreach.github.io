@@ -1,1 +1,1 @@
-Contact information here
+![SatSchool footer](/img/satschool-footer.png "SatSchool footer")
