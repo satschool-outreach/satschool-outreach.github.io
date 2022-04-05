@@ -13,3 +13,5 @@ show_sidebar: false
 gallery: biosphere-gallery
 #showcase: biosphere-showcase
 ---
+
+![SatSchool footer](/img/satschool-footer.png "SatSchool footer")
