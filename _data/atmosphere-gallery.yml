@@ -5,12 +5,13 @@
       alt: Atmosphere logo
       description: |-
         ### Welcome to the Atmosphere module
-        Learn how we use satellite data to measure the living parts of our planet.
-        In this module you will learn about how we measure the biosphere from space using satellites.
+        Learn how we use satellites to observe our atmosphere from space.
+        In this module you will learn about how we use satellites to measure atmospheric composition and weather.
         You will learn about
-        * Electromagnetic spectrum
-        * False colour composites
-        * Forest fires
+        * Ozone
+        * What makes a good colour map
+        * UK weather
+        * Weather forecasting charts
         
       ratio: is-16by16
 
@@ -18,30 +19,38 @@
   images:
     - link: /img/storymap-img/biosphere-storymap.png
       #large_link: /img/mod-logos/IntroToEO-07.png
-      alt: Biosphere storymap image
+      alt: Atmosphere storymap image
       description: |-
-        ### [Biosphere Storymap](/Modules/Biosphere/)
-        Learn how we use satellite data to measure the living parts of our planet.
-        In this module you will learn about how we measure the biosphere from space using satellites.
-        You will learn about
-        * Electromagnetic spectrum
-        * False colour composites
-        * Forest fires
+        ### [Atmosphere StoryMap Collection](https://storymaps.arcgis.com/collections/93319a7b7e144dbf852b10d74c44631d)
+        This StoryMap Collection aims to introduce atmospheric composition and weather concepts and how we view them from space.
+        The two StoryMaps cover these topics:
+        * Ozone
+        * Weather
+
         
       ratio: is-16by16
     - link: /img/canva-logo.png
       #large_link: /img/mod-logos/IntroToEO-07.png
       alt: Canva logo
       description: |-
-        ### [Canva Presentation Slides](/Modules/Biosphere/)
-        Find the slides here for the Biosphere classroom presentation.
+        ### [Canva Presentation Slides: Ozone](https://www.canva.com/design/DAE0sfsF6uY/tFB1OgUJE7ZgzGpjF2TDlQ/view?utm_content=DAE0sfsF6uY&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
+        Find the slides here for the Ozone classroom presentation (view/present only).
+        
+      ratio: is-16by16
+      
+    - link: /img/canva-logo.png
+      #large_link: /img/mod-logos/IntroToEO-07.png
+      alt: Canva logo
+      description: |-
+        ### [Canva Presentation Slides: Weather](https://www.canva.com/design/DAE3IegIuBI/XssJTT5hjpVS-5oEeBHlug/view?utm_content=DAE3IegIuBI&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
+        Find the slides here for the Ozone classroom presentation (view/present only).
         
       ratio: is-16by16
     - link: /img/google-doc.png
       #large_link: /img/mod-logos/IntroToEO-07.png
       alt: Google Docs logo
       description: |-
-        ### [Documentation in Google Docs](/Modules/Biosphere/)
-        Find the documentation for teachers and PhD students here.
+        ### [Documentation in Google Docs](https://drive.google.com/drive/folders/1j5rn4yjRpeO2_BzZQbPN7b93semP1eJ4?usp=sharing)
+        Find the user documentation here, including guidance instructions for delivering the module in the classroom and student worksheets and answers.
         
       ratio: is-16by16
