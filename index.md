@@ -13,3 +13,5 @@ hide_hero: true
 #gallery: module-gallery
 showcase: all-modules-showcase
 ---
+
+<img src="/img/satschool-footer.png" alt="SatSchool footer" style="height: 545.89px; width:2699.46px;"/>
