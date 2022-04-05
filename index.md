@@ -14,4 +14,4 @@ hide_hero: true
 showcase: all-modules-showcase
 ---
 
-<img src="/img/satschool-footer.png" alt="SatSchool footer" style="height: 545.89px; width:2699.46px;"/>
+
