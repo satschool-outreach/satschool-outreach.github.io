@@ -13,11 +13,11 @@ show_sidebar: false
 #showcase: all-modules-showcase
 #gallery: footer-image
 ---
-### We'd love to hear from you if you:
+### We'd love to hear from you if:
 
-- Would like to use SatSchool materials
-- Would like to organise a visit from an Earth Observation Ambassador to deliver an outreach session in person
-- Would like to contribute to the development of SatSchool
+- You want to use SatSchool materials
+- You want to organise a visit from an Earth Observation Ambassador to deliver an outreach session in person
+- You want to contribute to the development of SatSchool
 
 ### You can get in touch with us at: [satschool.outreach@gmail.com](mailto:satschool.outreach@gmail.com)
 
