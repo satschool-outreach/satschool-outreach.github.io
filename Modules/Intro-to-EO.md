@@ -11,6 +11,4 @@ gallery: intro-eo-gallery
 show_sidebar: false
 ---
 
-Test that we want 
-about intro to eo
-down here
+![SatSchool footer](/img/satschool-footer.png "SatSchool footer")
