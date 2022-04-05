@@ -13,3 +13,5 @@ show_sidebar: false
 gallery: oceans-gallery
 #showcase: all-modules-showcase
 ---
+
+![SatSchool footer](/img/satschool-footer.png "SatSchool footer")
