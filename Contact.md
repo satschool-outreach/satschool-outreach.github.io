@@ -19,8 +19,8 @@ show_sidebar: false
 - Would like to organise a visit from an Earth Observation Ambassador to deliver an outreach session in person
 - Would like to contribute to the development of SatSchool
 
-### You can get in touch with us at:
+### You can get in touch with us at: [satschool.outreach@gmail.com](mailto:satschool.outreach@gmail.com)
 
-### [satschool.outreach@gmail.com](satschool.outreach@gmail.com)
+
 
 ![SatSchool footer](/img/satschool-footer.png "SatSchool footer")
