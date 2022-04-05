@@ -19,7 +19,7 @@
       alt: picture of Bryony Freer
       description: |-
         ### Bryony Freer
-        Co-founder of SatSchool, Intro to Earth Observation Module Leader
+        Co-founder of SatSchool, Intro to Earth Observation Module Leader, Communications with schools and funding bodies
       ratio: is-250by200     
     - link: /img/team/morag-fotheringham-02.png
       #large_link: /Modules/Biosphere/
@@ -46,7 +46,19 @@
       alt: image of Jess Payne
       description: |-
         ### Jess Payne
-        Biosphere Module Assistant        
+        Biosphere Module Assistant
+    - link: /img/team/nick-homer-02.png
+      #large_link: /Modules/Biosphere/
+      alt: image of Nick Homer
+      description: |-
+        ### Nick Homer
+        Cryosphere Module Assistant
+    - link: /img/team/ross-slater-02.png
+      #large_link: /Modules/Biosphere/
+      alt: image of Ross Slater
+      description: |-
+        ### Ross Slater
+        Cryosphere Module Assistant         
     - link: /img/team/ashar-aslam-02.png
       #large_link: /Modules/Biosphere/
       alt: image of Ashar Aslam
@@ -58,14 +70,26 @@
       alt: image of Jenny Cocks
       description: |-
         ### Jenny Cocks
-        Oceans Module Assistent         
+        Oceans Module Assistent   
+    - link: /img/team/phoebe-hudson-02.png
+      #large_link: /Modules/Biosphere/
+      alt: image of Phoebe Hudson
+      description: |-
+        ### Phoebe Hudson
+        Oceans Module Assistant        
     - link: /img/team/sam-bancroft.png
       #large_link: /Modules/Biosphere/
       alt: image of Sam Bancroft
       description: |-
         ### Sam Bancroft
         Hands on with Data Module Assistant, designer of the Hands on with Data website     
-      ratio: is-250by200      
+      ratio: is-250by200    
+    - link: /img/team/eszter-kovacs-02.png
+      #large_link: /Modules/Biosphere/
+      alt: image of Eszter Kovacs
+      description: |-
+        ### Eszter Kovacs
+        Intro to Earth Observation Module Assistant  
     - link: /img/team/megan-udy-02.png
       #large_link: /Modules/Biosphere/
       alt: image of Megan Udy
@@ -73,9 +97,10 @@
         ### Megan Udy
         Intro to Earth Observation Module Assistant    
       ratio: is-250by200
-    - link: /img/team/ross-slater-02.png
+    - link: /img/team/ruth-amey-02.png
       #large_link: /Modules/Biosphere/
-      alt: image of Ross Slater
+      alt: image of Ruth Amey
       description: |-
-        ### Ross Slater
-        Cryosphere Module Assistant      
+        ### Ruth Amey
+        Reporting Manager      
+     
