@@ -6,8 +6,8 @@
       description: |-
         ### Welcome to the Hands on with Data module
         In this module you will learn how to manipulate and understand data from satellites in a range of environmental contexts. It's your chance to get hands on with satellite data! 
-        Subject links: Computer Science, Geography, Maths
-        You will learn: 
+        **Subject links: Computer Science, Geography, Maths**
+        <br>You will learn: 
         * How scientists work with satellite data to better understand different parts of the Earth system
         * How to work with different kinds of satellite data yourself and the types of information it contains
         * How to interpret maps and graphs displaying different types of environmental data 
@@ -16,9 +16,9 @@
 
 - title: Resources
   images:
-    - link: /img/storymap-img/biosphere-storymap.png
+    - link: /img/mod-logos/HandsOnWithData-07.png
       #large_link: /img/mod-logos/HandsOnWithData-07.png
-      alt: Biosphere storymap image
+      alt: Hands on with Data Logo
       description: |-
         ### [Hands on With Data - Interactive Web App](https://share.streamlit.io/spiruel/satschool/main/app.py?token=zoa142)
         Work your way through these step-by-step activities to get hands on with some satellite data. 
