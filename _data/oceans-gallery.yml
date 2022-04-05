@@ -17,13 +17,12 @@
       #large_link: /img/mod-logos/IntroToEO-07.png
       alt: Biosphere storymap image
       description: |-
-        ### [The Oceans from Space StoryMap Collection](https://storymaps.arcgis.com/collections/fc822054d1b342daa841ba877860e687)
-        This StoryMap Collection aims to introduce methods used to observe the oceans of our planet. 
-        The three StoryMaps included are
-         * An Introduction
-         * Spying on Whales from Space
-         * Ocean Colour from Space
-         * Warm and Salty Oceans from Space
+        ### [The Cryosphere from Space StoryMap Collection](https://storymaps.arcgis.com/collections/48a40a6c28ff4996a42ee042d303012c)
+       This StoryMap Collection aims to introduce methods used to observe the oceans of our planet. 
+       The three StoryMaps included are
+        * An introduction to Oceans from Space
+        * Spying on Whales from Space
+        * Ocean Colour from Space
         
       ratio: is-16by16
       
