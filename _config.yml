@@ -21,6 +21,7 @@ description: >
 fixed_navbar: top
 #direction: one of <ltr, rtl, auto>, default: ltr
 favicon: /img/favicon.png
+footer_menu: footer-menu
 
 exclude: 
   - Gemfile
