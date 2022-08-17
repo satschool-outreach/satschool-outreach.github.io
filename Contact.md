@@ -21,15 +21,15 @@ show_sidebar: false
 
 ### You can get in touch with us at: [satschool.outreach@gmail.com](mailto:satschool.outreach@gmail.com)
 
-### Or fill out our enquiry [form]([https://forms.gle/NfNE2NWGk3mvph4s6](https://forms.gle/gcxeSY5phu5afxj58))
+### Or fill out our enquiry [form]([https://forms.gle/NfNE2NWGk3mvph4s6](https://forms.gle/gcxeSY5phu5afxj58)
 
 ### Follow us on Twitter: [@SatSchool_](https://twitter.com/SatSchool_)
 
 ### Become an EO Ambassdor:
 
--Be first to know about SatSchool outreach opportunities near you
--Be part of the EO outreach community 
--Be a recognised EO Ambassador on the SatSchool website
+- Be first to know about SatSchool outreach opportunities near you
+- Be part of the EO outreach community 
+- Be a recognised EO Ambassador on the SatSchool website
 
 If you want to become an EO Ambassador, sign up [here](https://forms.gle/NfNE2NWGk3mvph4s6)
 
