@@ -16,6 +16,8 @@
   - name: Oceans
     link: /Modules/Oceans/
 - name: Team
-  link: /team/    
+  link: /team/  
+- name: Partners
+  link: /partners/ 
 - name: Contact
   link: /Contact/
