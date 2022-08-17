@@ -1,11 +1,11 @@
 - title:
   images:
-    - link: /img/team/calum-hoad.png
-      #large_link: /img/mod-logos/IntroToEO-07.png
-      alt: picture of Calum Hoad
+    - link: /img/SENSE_logo.png
+      #large_link: /img/SENSE_logo.png
+      alt: SENSE CDT logo
       description: |-
-        ### Calum Hoad
-        Co-founder of SatSchool, Biosphere Module Lead, Designer of SatSchool graphics and website
+        ### SENSE CDT
+        Centre for satellite data in environmental science. 
       ratio: is-250by200
     - link: /img/team/emily-dowd.png
       large_link: /img/team/emily-dowd.png
