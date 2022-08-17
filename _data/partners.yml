@@ -12,5 +12,32 @@
       alt: Space Hub Yorkshire logo
       description: |-
         ### [Space Hub Yorkshire](https://spacehubyorkshire.org/)
-        Space Hub Yorkshire is a coordinator of Space activity across the region, a catalyst for new satellite and geospatial data markets, a source of Space expertise, a facilitator of new collaborations, a driver of investments, a champion for Space start-ups and an advocate for Space research and industry opportunities.. 
+        Space Hub Yorkshire is a coordinator of Space activity across the region, a catalyst for new satellite and geospatial data markets, a source of Space expertise, a facilitator of new collaborations, a driver of investments, a champion for Space start-ups and an advocate for Space research and industry opportunities. 
+      ratio: is-250by200
+    - link: /img/partners/esero_logo.png
+      #large_link: /img/partners/esero_logo.png
+      alt: ESERO-UK logo
+      description: |-
+        ### [ESERO-UK](https://www.stem.org.uk/esero)
+        ESERO-UK, also known as the UK Space Education and Resource Office, aims to use the context of space to open doors for young people by delivering engaging, world-class teaching in science, technology, engineering and mathematics (STEM).
+      ratio: is-250by200
+    - link: /img/partners/yssc_logo.png
+      #large_link: /img/partners/yssc_logo.png
+      alt: Yorkshire Space and Satellite Centre logo
+      description: |-
+        ### [Yorkshire Space and Satellite Centre](https://ysscentre.co.uk/)
+      ratio: is-250by200
+    - link: /img/partners/iris_logo.png
+      #large_link: /img/partners/iris_logo.png
+      alt: IRIS logo
+      description: |-
+        ### [Institute for Research in Schools (IRIS)](https://researchinschools.org/)
+        The Institute for Research in Schools (IRIS) develops opportunities for secondary students and post-16s from all backgrounds to participate in authentic research in school and make valuable, recognised contributions to the scientific community.
+      ratio: is-250by200
+    - link: /img/partners/dstl_logo.png
+      #large_link: /img/partners/dstl_logo.png
+      alt: DSTL logo
+      description: |-
+        ### [The Defence Science and Technology Laboratory](https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory)
+        The Defence Science and Technology Laboratory (Dstl) is the science inside UK defence and security. Watch [this video](https://www.youtube.com/watch?v=ZmOisLd63Ps) to find out more. 
       ratio: is-250by200
