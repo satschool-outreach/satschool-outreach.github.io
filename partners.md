@@ -8,7 +8,7 @@ hero_height: is-medium
 #hero_darken: true
 show_sidebar: false
 #callouts: module_callouts
-gallery: team
+gallery: partners
 ---
 
 ![SatSchool footer](/img/satschool-footer.png "SatSchool footer")
