@@ -1,15 +1,16 @@
 - title:
   images:
     - link: /img/SENSE_logo.png
-      #large_link: /img/SENSE_logo.png
+      #large_link: /img/partners/SENSE_logo.png
       alt: SENSE CDT logo
       description: |-
         ### [SENSE CDT](https://eo-cdt.org/)
         Centre for Satellite Data in Environmental Science. 
       ratio: is-250by200
-    - link: /img/team/emily-dowd.png
-      large_link: /img/team/emily-dowd.png
-      alt: picture of Emily Dowd
+    - link: /img/partners/shy_logo.png
+      #large_link: /img/partners/shy_logo.png
+      alt: Space Hub Yorkshire logo
       description: |-
-        ### Emily Dowd
-        Co-founder of SatSchool, Atmosphere Module Lead, Project budgeting and communication with finance departments
+        ### [Space Hub Yorkshire](https://spacehubyorkshire.org/)
+        Space Hub Yorkshire is a coordinator of Space activity across the region, a catalyst for new satellite and geospatial data markets, a source of Space expertise, a facilitator of new collaborations, a driver of investments, a champion for Space start-ups and an advocate for Space research and industry opportunities.. 
+      ratio: is-250by200
