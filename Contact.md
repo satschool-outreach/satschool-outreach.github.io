@@ -21,7 +21,7 @@ show_sidebar: false
 
 ### You can get in touch with us at: [satschool.outreach@gmail.com](mailto:satschool.outreach@gmail.com)
 
-### Or fill out our enquiry [form]([https://forms.gle/NfNE2NWGk3mvph4s6](https://forms.gle/gcxeSY5phu5afxj58)
+### Or fill out our enquiry [form](https://forms.gle/NfNE2NWGk3mvph4s6](https://forms.gle/gcxeSY5phu5afxj58)
 
 ### Follow us on Twitter: [@SatSchool_](https://twitter.com/SatSchool_)
 
