@@ -23,7 +23,7 @@ fixed_navbar: top
 favicon: /img/favicon.png
 footer_menu: footer-menu
 
-google_analytics: G-1XCVNYVG54
+google_analytics: G-GWRKPZ8HSP
 
 exclude: 
   - Gemfile
