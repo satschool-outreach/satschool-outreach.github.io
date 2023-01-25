@@ -15,3 +15,8 @@ show_sidebar: false
 ---
 
 # SatSchool News
+
+
+
+<br/>
+![SatSchool footer](/img/satschool-footer.png "SatSchool footer")
