@@ -14,8 +14,6 @@ show_sidebar: false
 #gallery: footer-image
 ---
 
-# SatSchool News
-
 <center>
 <a class="twitter-timeline" data-width="500" data-height="500" data-dnt="true" href="https://twitter.com/SatSchool_?ref_src=twsrc%5Etfw">Tweets by SatSchool_</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
