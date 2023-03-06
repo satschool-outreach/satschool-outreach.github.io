@@ -1,112 +1,141 @@
-- title:
+# Emily Dowd - Treasurer & Funding and Grants
+# Calum Hoad - Secretary & Website 
+# Morag Fotheringham - Vice Chair & Resource Maintenance
+# Bryony Freer - Chair & Comms
+# 
+# 
+# Ashar Aslam - External Communications
+# Megan Udy - Events Coordinator
+# Nick Homer - Resource Maintenance + Funding and Grants Researcher
+# Jacob Connolly - Resource Maintenance + Website Developer
+# Sam Bancroft - Website Developer
+# Phoebe Hudson - Social Media Coordinator
+# Leam Howe - Resource Maintenance + Website Developer
+# 
+
+- title: SatSchool Committee
   images:
+    - link: /img/team/bryony-freer.png
+      alt: picture of Bryony Freer
+      description: |-
+        ### Bryony Freer
+        Co-founder of SatSchool | Chair & Communications
+
+        Intro to Earth Observation Module Lead
+      ratio: is-250by200
+    - link: /img/team/morag-fotheringham-02.png
+      alt: image of Morag Fotheringham
+      description: |-
+        ### Morag Fotheringham
+        Co-founder of SatSchool | Vice Chair & Resource Maintenance
+
+        Cryosphere Module Lead   
+      ratio: is-250by200
     - link: /img/team/calum-hoad.png
-      #large_link: /img/mod-logos/IntroToEO-07.png
       alt: picture of Calum Hoad
       description: |-
         ### Calum Hoad
-        Co-founder of SatSchool, Biosphere Module Lead, Designer of SatSchool graphics and website
+        Co-founder of SatSchool | Secretary & Website Developer
+
+        Biosphere Module Lead, Designer of SatSchool graphics and website
       ratio: is-250by200
     - link: /img/team/emily-dowd.png
       large_link: /img/team/emily-dowd.png
       alt: picture of Emily Dowd
       description: |-
         ### Emily Dowd
-        Co-founder of SatSchool, Atmosphere Module Lead, Project budgeting and communication with finance departments
+        Co-founder of SatSchool | Treasurer & Funding and Grants Researcher
+
+        Atmosphere Module Lead
       ratio: is-250by200
-    - link: /img/team/bryony-freer.png
-      #large_link: /img/team/emily-dowd.png
-      alt: picture of Bryony Freer
+    - link: /img/team/ashar-aslam-02.png
+      alt: image of Ashar Aslam
       description: |-
-        ### Bryony Freer
-        Co-founder of SatSchool, Intro to Earth Observation Module Lead, Communications with schools and funding bodies
-      ratio: is-250by200     
-    - link: /img/team/morag-fotheringham-02.png
-      #large_link: /Modules/Biosphere/
-      alt: image of Morag Fotheringham
-      description: |-
-        ### Morag Fotheringham
-        Co-founder of SatSchool, Cryosphere Module Lead   
+        ### Ashar Aslam
+        External Communications
+
+        Atmosphere Module Assistant 
       ratio: is-250by200
+    - link: /img/team/megan-udy-02.png
+      alt: image of Megan Udy
+      description: |-
+        ### Megan Udy
+        Events Coordinator
+
+        Intro to Earth Observation Module Assistant 
+      ratio: is-250by200
+    - link: /img/team/nick-homer-02.png
+      alt: image of Nick Homer
+      description: |-
+        ### Nick Homer
+        Resource Maintenance & Funding and Grants Researcher
+
+        Cryosphere Module Assistant
+      ratio: is-250by200
+    - link: /img/team/jacob-connolly-02.jpeg
+      alt: image of Jacob Connolly
+      description: |-
+        ### Jacob Connolly
+        Website Maintenance & Resource Maintenance
+      ratio: is-250by200
+    - link: /img/team/sam-bancroft.png
+      alt: image of Sam Bancroft
+      description: |-
+        ### Sam Bancroft
+        Website Maintenance & Resource Maintenance
+
+        Hands on with Data Module Assistant, designer of the Hands on with Data website     
+      ratio: is-250by200
+    - link: /img/team/phoebe-hudson-02.png
+      alt: image of Phoebe Hudson
+      description: |-
+        ### Phoebe Hudson
+        Social Media Coordinator
+
+        Oceans Module Assistant   
+    - link: /img/team/leam-howe-02.png
+      alt: image of Leam Howe
+      description: |-
+        ### Leam Howe
+        Resource Maintenance & Website Developer
+
+- title: Content Creators
+  images:
     - link: /img/team/sol-white.png
-      #large_link: /Modules/Biosphere/
       alt: image of Sol White
       description: |-
         ### Sol White
         Hands on with Data Module Lead.     
       ratio: is-250by200 
     - link: /img/team/penny-clarke-02.png
-      #large_link: /Modules/Biosphere/
       alt: image of Penny Clarke
       description: |-
         ### Penny Clarke
         Oceans Module Lead
     - link: /img/team/jess-payne-02.png
-      #large_link: /Modules/Biosphere/
       alt: image of Jess Payne
       description: |-
         ### Jess Payne
         Biosphere Module Assistant
-    - link: /img/team/nick-homer-02.png
-      #large_link: /Modules/Biosphere/
-      alt: image of Nick Homer
-      description: |-
-        ### Nick Homer
-        Cryosphere Module Assistant
     - link: /img/team/ross-slater-02.png
-      #large_link: /Modules/Biosphere/
       alt: image of Ross Slater
       description: |-
         ### Ross Slater
         Cryosphere Module Assistant         
-    - link: /img/team/ashar-aslam-02.png
-      #large_link: /Modules/Biosphere/
-      alt: image of Ashar Aslam
-      description: |-
-        ### Ashar Aslam
-        Atmosphere Module Assistant 
     - link: /img/team/jenny-cocks-02.png
-      #large_link: /Modules/Biosphere/
       alt: image of Jenny Cocks
       description: |-
         ### Jenny Cocks
-        Oceans Module Assistent   
-    - link: /img/team/phoebe-hudson-02.png
-      #large_link: /Modules/Biosphere/
-      alt: image of Phoebe Hudson
-      description: |-
-        ### Phoebe Hudson
-        Oceans Module Assistant        
-    - link: /img/team/sam-bancroft.png
-      #large_link: /Modules/Biosphere/
-      alt: image of Sam Bancroft
-      description: |-
-        ### Sam Bancroft
-        Hands on with Data Module Assistant, designer of the Hands on with Data website     
+        Oceans Module Assistent      
       ratio: is-250by200    
     - link: /img/team/eszter-kovacs-02.png
-      #large_link: /Modules/Biosphere/
       alt: image of Eszter Kovacs
       description: |-
         ### Eszter Kovacs
         Intro to Earth Observation Module Assistant  
-    - link: /img/team/megan-udy-02.png
-      #large_link: /Modules/Biosphere/
-      alt: image of Megan Udy
-      description: |-
-        ### Megan Udy
-        Intro to Earth Observation Module Assistant    
       ratio: is-250by200
     - link: /img/team/ruth-amey-02.png
-      #large_link: /Modules/Biosphere/
       alt: image of Ruth Amey
       description: |-
         ### Ruth Amey
-        Reporting Manager  
-    - link: /img/team/leam-howe.png
-      #large_link: /Modules/Cryosphere/
-      alt: image of Leam Howe
-      description: |-
-        ### Leam Howe
-        Committee Member
-     
+        Reporting Manager      
