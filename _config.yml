@@ -23,6 +23,8 @@ fixed_navbar: top
 favicon: /img/favicon.png
 footer_menu: footer-menu
 
+google_analytics: G-GWRKPZ8HSP
+
 exclude: 
   - Gemfile
   - clean-theme.gemspec
