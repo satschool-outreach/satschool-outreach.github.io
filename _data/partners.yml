@@ -41,3 +41,10 @@
         ### [The Defence Science and Technology Laboratory](https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory)
         The Defence Science and Technology Laboratory (Dstl) is the science inside UK defence and security. Watch [this video](https://www.youtube.com/watch?v=ZmOisLd63Ps) to find out more. 
       ratio: is-250by200
+    - link: /img/partners/nceo_logo.png
+      #large_link: /img/partners/nceo_logo.png
+      alt: NCEO logo
+      description: |-
+        National Centre for Earth Observation
+        The Defence Science and Technology Laboratory (Dstl) is the science inside UK defence and security. Watch [this video](https://www.youtube.com/watch?v=ZmOisLd63Ps) to find out more. 
+      ratio: is-250by200
