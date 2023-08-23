@@ -16,21 +16,16 @@ show_sidebar: false
 
 <head>
   <style>
-    .pdf-iframe {
-      width: 100%;
-      height: 600px;
-    }
-
-    @media (max-width: 768px) {
-      .pdf-iframe {
-        height: 400px;
-      }
+    iframe {
+      width: 75%; /* adjust to your needs */
+      max-width: 100%; /* to make it responsive */
+      margin: auto
     }
   </style>
 </head>
 
 <center>
-<iframe src="https://drive.google.com/file/d/1c_KIoFWSipc-QMM6_qLVjVEmwvyvF1Fm/preview">width="100%" height="100%"</iframe>
+<iframe src="https://drive.google.com/file/d/1c_KIoFWSipc-QMM6_qLVjVEmwvyvF1Fm/preview">width="100%" height="100%" frameborder="0"</iframe>
 </center>
 
 <!-- <a class="twitter-timeline" data-width="500" data-height="500" data-dnt="true" href="https://twitter.com/SatSchool_?ref_src=twsrc%5Etfw">Tweets by SatSchool_</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
