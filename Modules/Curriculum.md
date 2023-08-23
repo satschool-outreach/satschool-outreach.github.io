@@ -18,6 +18,7 @@ show_sidebar: false
   <style>
     iframe {
       width: 75%; /* adjust to your needs */
+      height: 500px;
       max-width: 100%; /* to make it responsive */
       margin: auto
     }
