@@ -25,7 +25,7 @@ show_sidebar: false
 
 ### Follow us on Twitter: [@SatSchool_](https://twitter.com/SatSchool_)
 
-### Become an EO Ambassdor:
+### Become an EO Ambassador:
 
 - Be first to know about SatSchool outreach opportunities near you
 - Be part of the EO outreach community 
