@@ -56,14 +56,7 @@
 
         Atmosphere Module Assistant 
       ratio: is-250by200
-    - link: /img/team/megan-udy-02.png
-      alt: image of Megan Udy
-      description: |-
-        ### Megan Udy
-        Events Coordinator
 
-        Intro to Earth Observation Module Assistant 
-      ratio: is-250by200
     - link: /img/team/nick-homer-02.png
       alt: image of Nick Homer
       description: |-
@@ -139,6 +132,14 @@
       description: |-
         ### Eszter Kovacs
         Intro to Earth Observation Module Assistant  
+      ratio: is-250by200
+    - link: /img/team/megan-udy-02.png
+      alt: image of Megan Udy
+      description: |-
+        ### Megan Udy
+        Events Coordinator
+
+        Intro to Earth Observation Module Assistant 
       ratio: is-250by200
     - link: /img/team/ruth-amey-02.png
       alt: image of Ruth Amey
