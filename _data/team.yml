@@ -1,25 +1,33 @@
-# Emily Dowd - Treasurer & Funding and Grants
-# Calum Hoad - Secretary & Website 
-# Morag Fotheringham - Vice Chair & Resource Maintenance
-# Bryony Freer - Chair & Comms
-# 
-# 
-# Ashar Aslam - External Communications
-# Megan Udy - Events Coordinator
-# Nick Homer - Resource Maintenance + Funding and Grants Researcher
-# Jacob Connolly - Resource Maintenance + Website Developer
-# Sam Bancroft - Website Developer
-# Phoebe Hudson - Social Media Coordinator
-# Leam Howe - Resource Maintenance + Website Developer
-# 
+# Chair:                                                                               Calum Hoad
+# Vice-Chair:                                                                     Bryony Freer
+# Secretary:                                                                       Morag Fotheringham
+# Treasurer:                                                                      Emily Dowd
+# Website Developer:                                                    Jacob Connolly
+# Resource Maintenance:                                             Leam Howe
+# Funding and Grants Researcher:                             Nick Homer
+# External Comms (Edinburgh):                                   Catherine Mercer
+# External Comms (Leeds):                                           Alex Lewis
+# Social Media and Promotion:                                   Rebecca Wilks
+# Events Coordinator:                                                    Hao Wu
+# EO Ambassador Network Coordinator:                 Alice Hopkins
+# Regular Member (1):                                                   Sam Bancroft
+# Regular Member (2):                                                   Natalie Nickels
 
 - title: SatSchool Committee
   images:
+    - link: /img/team/calum-hoad.png
+      alt: picture of Calum Hoad
+      description: |-
+        ### Calum Hoad
+        Co-founder of SatSchool | Chair
+
+        Biosphere Module Lead, Designer of SatSchool graphics and website
+      ratio: is-250by200
     - link: /img/team/bryony-freer.png
       alt: picture of Bryony Freer
       description: |-
         ### Bryony Freer
-        Co-founder of SatSchool | Chair & Communications
+        Co-founder of SatSchool | Vice-Chair
 
         Intro to Earth Observation Module Lead
       ratio: is-250by200
@@ -27,41 +35,26 @@
       alt: image of Morag Fotheringham
       description: |-
         ### Morag Fotheringham
-        Co-founder of SatSchool | Vice Chair & Resource Maintenance
+        Co-founder of SatSchool | Secretary
 
         Cryosphere Module Lead   
       ratio: is-250by200
-    - link: /img/team/calum-hoad.png
-      alt: picture of Calum Hoad
-      description: |-
-        ### Calum Hoad
-        Co-founder of SatSchool | Secretary & Website Developer
 
-        Biosphere Module Lead, Designer of SatSchool graphics and website
-      ratio: is-250by200
     - link: /img/team/emily-dowd.png
       large_link: /img/team/emily-dowd.png
       alt: picture of Emily Dowd
       description: |-
         ### Emily Dowd
-        Co-founder of SatSchool | Treasurer & Funding and Grants Researcher
+        Co-founder of SatSchool | Treasurer
 
         Atmosphere Module Lead
-      ratio: is-250by200
-    - link: /img/team/ashar-aslam-02.png
-      alt: image of Ashar Aslam
-      description: |-
-        ### Ashar Aslam
-        External Communications
-
-        Atmosphere Module Assistant 
       ratio: is-250by200
 
     - link: /img/team/nick-homer-02.png
       alt: image of Nick Homer
       description: |-
         ### Nick Homer
-        Resource Maintenance & Funding and Grants Researcher
+        Funding and Grants Researcher
 
         Cryosphere Module Assistant
       ratio: is-250by200
@@ -69,34 +62,68 @@
       alt: image of Jacob Connolly
       description: |-
         ### Jacob Connolly
-        Resource Maintenance & Website Developer
+        Website Developer
       ratio: is-250by200
-    - link: /img/team/sam-bancroft.png
-      alt: image of Sam Bancroft
-      description: |-
-        ### Sam Bancroft
-        Resource Maintenance & Website Developer
 
-        Hands on with Data Module Assistant, designer of the Hands on with Data website     
-      ratio: is-250by200
-    - link: /img/team/phoebe-hudson-02.png
-      alt: image of Phoebe Hudson
-      description: |-
-        ### Phoebe Hudson
-        Social Media Coordinator
-
-        Oceans Module Assistant   
     - link: /img/team/leam-howe-02.png
       alt: image of Leam Howe
       description: |-
         ### Leam Howe
-        Resource Maintenance & Website Developer
+        Resource Maintenance
 
     - link: 
       alt: image of Alice Hopkins
       description: |-
         ### Alice Hopkins
         EO Ambassador Network Coordinator
+
+    # - link: /img/team/catherine-mercer.png
+    - link: /img/team/placeholder.png
+      alt: image of Catherine Mercer
+      description: |-
+        ### Catherine Mercer
+        External Comms (Edinburgh/Scotland)
+      ratio: is-250by200
+
+    # - link: /img/team/alex-lewis.png
+    - link: /img/team/placeholder.png
+      alt: image of Alex Lewis
+      description: |-
+        ### Alex Lewis
+        External Comms (Leeds/England)
+      ratio: is-250by200
+
+    # - link: /img/team/rebecca-wilks.png
+    - link: /img/team/placeholder.png
+      alt: image of Rebecca Wilks
+      description: |-
+        ### Rebecca Wilks
+        Social Media and Promotion
+      ratio: is-250by200
+
+    - link: /img/team/hao-wu-02.jpg
+      alt: image of Hao Wu
+      description: |-
+        ### Hao Wu
+        Events Coordinator
+      ratio: is-250by200
+
+    - link: /img/team/sam-bancroft.png
+      alt: image of Sam Bancroft
+      description: |-
+        ### Sam Bancroft
+        Regular Member
+
+        Hands on with Data Module Assistant, designer of the Hands on with Data website     
+      ratio: is-250by200
+
+    # - link: /img/team/natalie-nickels.png
+    - link: /img/team/placeholder.png
+      alt: image of Natalie Nickels
+      description: |-
+        ### Natalie Nickels
+        Regular Member
+      ratio: is-250by200
 
 - title: Content Creators
   images:
@@ -141,6 +168,25 @@
         
         SatSchool Committee alumni
       ratio: is-250by200
+
+    - link: /img/team/ashar-aslam-02.png
+      alt: image of Ashar Aslam
+      description: |-
+        ### Ashar Aslam
+        Atmosphere Module Assistant 
+
+        SatSchool Committee alumni
+      ratio: is-250by200
+
+    - link: /img/team/phoebe-hudson-02.png
+      alt: image of Phoebe Hudson
+      description: |-
+        ### Phoebe Hudson
+        Oceans Module Assistant 
+
+        SatSchool Committee alumni  
+      ratio: is-250by200
+
     - link: /img/team/ruth-amey-02.png
       alt: image of Ruth Amey
       description: |-
