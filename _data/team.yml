@@ -117,8 +117,8 @@
     - link: /img/team/placeholder.png
       alt: image of Catherine Mercer
       description: |-
-        ### Catherine Mercer
-        External Comms (Edinburgh/Scotland)
+        ## Catherine Mercer
+        **External Comms (Edinburgh/Scotland)**
       ratio: is-250by200
 
     - link: /img/team/alex-lewis.jpg
@@ -138,7 +138,7 @@
       alt: image of Rebecca Wilks
       description: |-
         ## Rebecca Wilks
-        Social Media and Promotion
+        **Social Media and Promotion**
       ratio: is-250by200
 
     - link: /img/team/hao-wu-02.jpg
