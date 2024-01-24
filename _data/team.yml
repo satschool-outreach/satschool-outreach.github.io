@@ -18,7 +18,7 @@
     - link: /img/team/calum-hoad.png
       alt: picture of Calum Hoad
       description: |-
-        ## Calum Hoad
+        ## Calum Hoad (he/him)
         **Co-founder of SatSchool | Chair**
 
         Biosphere Module Lead, Designer of SatSchool graphics and website
@@ -32,7 +32,7 @@
     - link: /img/team/bryony-freer.png
       alt: picture of Bryony Freer
       description: |-
-        ## Bryony Freer
+        ## Bryony Freer (she/her)
         **Co-founder of SatSchool | Vice-Chair**
 
         Intro to Earth Observation Module Lead
@@ -45,7 +45,7 @@
     - link: /img/team/morag-fotheringham-02.png
       alt: image of Morag Fotheringham
       description: |-
-        ## Morag Fotheringham
+        ## Morag Fotheringham (she/her)
         **Co-founder of SatSchool | Secretary**
 
         Cryosphere Module Lead   
@@ -60,7 +60,7 @@
       large_link: /img/team/emily-dowd.png
       alt: picture of Emily Dowd
       description: |-
-        ## Emily Dowd
+        ## Emily Dowd (she/her)
         **Co-founder of SatSchool | Treasurer**
 
         Atmosphere Module Lead
@@ -74,7 +74,7 @@
     - link: /img/team/nick-homer-02.png
       alt: image of Nick Homer
       description: |-
-        ## Nick Homer
+        ## Nick Homer (he/him)
         **Funding and Grants Researcher**
 
         Cryosphere Module Assistant
@@ -88,7 +88,7 @@
     - link: /img/team/jacob-connolly-02.jpeg
       alt: image of Jacob Connolly
       description: |-
-        ## Jacob Connolly
+        ## Jacob Connolly (he/him)
         **Website Developer**
         #### Researcher Profile:
 
@@ -100,7 +100,7 @@
     - link: /img/team/leam-howe-02.png
       alt: image of Leam Howe
       description: |-
-        ## Leam Howe
+        ## Leam Howe (he/him)
         **Resource Maintenance**
         #### Researcher profile:
         - Leam enjoyed maths and physics at school, choosing to do a Physics degree at the University of Nottingham]
@@ -110,13 +110,13 @@
     - link: /img/team/placeholder.png
       alt: image of Alice Hopkins
       description: |-
-        ## Alice Hopkins
+        ## Alice Hopkins (she/her)
         **EO Ambassador Network Coordinator**
 
     - link: /img/team/catherine-mercer.jpg
       alt: image of Catherine Mercer
       description: |-
-        ## Catherine Mercer
+        ## Catherine Mercer (they/them)
         **External Comms (Edinburgh/Scotland)**
 
         #### Researcher profile:
@@ -129,7 +129,7 @@
     - link: /img/team/alex-lewis.jpg
       alt: image of Alex Lewis
       description: |-
-        ## Alex Lewis
+        ## Alex Lewis (he/they)
         **External Comms (Leeds/England)**
         #### Researcher profile:
         - Alex enjoyed science and maths at school, going on to study Physics at university
@@ -138,18 +138,22 @@
 
       ratio: is-250by200
 
-    # - link: /img/team/rebecca-wilks.png
-    - link: /img/team/placeholder.png
-      alt: image of Rebecca Wilks
+    - link: /img/team/rebecca-wilks.jpg
+      alt: image of Becky Wilks
       description: |-
-        ## Rebecca Wilks
+        ## Becky Wilks (she/her)
         **Social Media and Promotion**
+        #### Researcher profile:
+        - Enjoys working in Earth Observation research, as the work directly helps with current environmental crisis'.
+        - At school, Becky loved Maths and went on to study Maths at The University of Leeds, and then Statistics at Imperial College London.
+        - Currently Becky is a PhD student at The University of Edinburgh, applying earth observation data to aid elephant conservation.
+
       ratio: is-250by200
 
     - link: /img/team/hao-wu-02.jpg
       alt: image of Hao Wu
       description: |-
-        ## Hao Wu
+        ## Hao Wu (she/her)
         **Events Coordinator**
         #### Researcher profile:
         - Hao is a PhD candidate from the University of Dundee(CEPMLP/Law school); an IUCN early career specialist; SAGES Associate PhD.
@@ -161,7 +165,7 @@
     - link: /img/team/sam-bancroft.png
       alt: image of Sam Bancroft
       description: |-
-        ## Sam Bancroft
+        ## Sam Bancroft (he/him)
         **Regular Member**
 
         Hands on with Data Module Assistant, designer of the Hands on with Data website    
