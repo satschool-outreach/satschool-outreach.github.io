@@ -1,0 +1,27 @@
+style: is-light
+height: is-medium
+items:
+  - title: Learn about SatSchool!
+    subtitle: 
+    icon: fa-info
+    description: >
+      Learn more about our mission. 
+
+    call_to_action_name: Learn more
+    call_to_action_link: /About/
+
+  - title: Get Started!
+    subtitle: 
+    icon: fa-school
+    description: >
+      Go straight to the resources. 
+    call_to_action_name: Modules
+    call_to_action_link: /Modules/All-Modules
+
+  - title: Become an EO Ambassador!
+    subtitle: 
+    icon: fa-users
+    description: >
+      Join our Earth Observation Ambassador programme to be notified about upcoming events and resources.
+    call_to_action_name: Sign up
+    call_to_action_link: /Ambassador/

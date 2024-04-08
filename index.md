@@ -1,11 +1,13 @@
 ---
-layout: page
-title: SatSchool
-subtitle: Earth observation outreach in schools
+layout: custom-page
+title: 
+subtitle: 
 show_sidebar: false
 hide_hero: true
+# hero_height: is-large
 # hero_image: /img/footer_logo_only.png
 showcase: all-modules-showcase
+callouts: home-callouts
 ---
 
-![SatSchool footer](/img/satschool-footer.png "SatSchool footer")
+<!-- ![SatSchool footer](/img/satschool-footer.png "SatSchool footer") -->
