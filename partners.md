@@ -10,5 +10,3 @@ show_sidebar: false
 #callouts: module_callouts
 gallery: partners
 ---
-
-![SatSchool footer](/img/satschool-footer.png "SatSchool footer")

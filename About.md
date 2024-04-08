@@ -70,4 +70,5 @@ All modules are structured slightly differently, but contain:
 * Certain activities in each of the modules require some additional equipment, such as measuring scales or plastic cups, but these are all listed in the module documentation.  
 
 <br/>
-![SatSchool footer](/img/satschool-footer.png "SatSchool footer")
+
+{%- include footer-scripts.html -%}

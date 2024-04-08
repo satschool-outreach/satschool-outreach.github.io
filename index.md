@@ -9,5 +9,3 @@ hide_hero: true
 showcase: all-modules-showcase
 callouts: home-callouts
 ---
-
-<!-- ![SatSchool footer](/img/satschool-footer.png "SatSchool footer") -->

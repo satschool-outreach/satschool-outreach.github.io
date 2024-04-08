@@ -16,7 +16,3 @@ gallery: module-gallery
 ---
 <p style="text-align: center; font-size: larger; font-weight: bold;">Links with the English curriculum can be found <a href="/Modules/Curriculum">here</a>. Scottish curriculum links coming soon!
 </p>
-
-
-
-![SatSchool footer](/img/satschool-footer.png "SatSchool footer")

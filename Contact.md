@@ -34,6 +34,3 @@ show_sidebar: false
 If you want to become an EO Ambassador, sign up [here](https://forms.gle/NfNE2NWGk3mvph4s6)
 
 <br/><br/><br/><br/><br/>
-
-
-![SatSchool footer](/img/satschool-footer.png "SatSchool footer")

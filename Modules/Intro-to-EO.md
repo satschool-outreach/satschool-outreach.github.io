@@ -10,5 +10,3 @@ layout: page
 gallery: intro-eo-gallery
 show_sidebar: false
 ---
-
-![SatSchool footer](/img/satschool-footer.png "SatSchool footer")

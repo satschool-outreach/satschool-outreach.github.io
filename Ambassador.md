@@ -25,6 +25,3 @@ The key aim of an EO Ambassador is to inspire the next generation of EO scientis
 ### If you want to become an EO Ambassador, sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSeY4sGm8cEBrWoI7_UNyiK8bjN9OssUh7SzYXCtZPyS5KJdkA/viewform)
 
 <br/><br/><br/><br/><br/>
-
-
-![SatSchool footer](/img/satschool-footer.png "SatSchool footer")
