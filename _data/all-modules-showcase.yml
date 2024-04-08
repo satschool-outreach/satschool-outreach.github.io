@@ -2,8 +2,10 @@ items:
   - title: SatSchool
     subtitle: Earth observation outreach for schools
     description: |-
-      SatSchool is an outreach programme for lower secondary school pupils to learn about Earth observation! The programme is designed and delivered by [PhD students](/team/) from [SENSE CDT](https://eo-cdt.org/).
-    image: /img/all-logos.png
+      SatSchool is an outreach programme for lower secondary school pupils to learn about Earth observation! The programme is designed and delivered by [PhD students](/team/) from [SENSE CDT](https://eo-cdt.org/). 
+      
+      Click the "Get started!" button below to see the SatSchool resources!
+    image: ../img/all-logos.png
     image_ratio: is-3507by2410
     link: /Modules/All-Modules/
     link_text: Get started!

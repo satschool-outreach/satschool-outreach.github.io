@@ -2,7 +2,7 @@ intro: |-
   This is the Introduction to Earth Observation module. Here you will learn the basics of Earth Observation, including information about satellites and their orbits...
 items:
   - title: Introduction to Earth Observation Storymap
-    subtitle: csrhymes.com
+    subtitle: 
     description: |-
       The Introduction to Earth Observation StoryMap will teach you the basics of satellites and how we use them to measure the earth.
     image: /img/intro-to-eo-storymap.PNG
