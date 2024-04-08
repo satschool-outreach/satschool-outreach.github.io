@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: post
 title: SatSchool at STEM careers event at Our Dynamic Earth
 hero_height: is-medium
-
+author: Nick Homer and Morag Fotheringham
 hero_image: /img/news/dynamic_earth.jpg
-
+date: 05-03-2024
 show_sidebar: false
 
 ---
