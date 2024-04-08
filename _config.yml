@@ -7,7 +7,7 @@ permalink: pretty
 # Site Settings
 lang: en
 title: SatSchool
-tagline: SatSchool
+tagline: Satellite Earth observation outreach for schools
 #email: your-email@domain.com
 description: >
   The website for the SatSchool outreach programme
@@ -22,6 +22,8 @@ fixed_navbar: top
 #direction: one of <ltr, rtl, auto>, default: ltr
 favicon: /img/favicon.png
 footer_menu: footer-menu
+sass:
+    sass_dir: assets/css
 
 google_analytics: G-GWRKPZ8HSP
 
