@@ -20,4 +20,3 @@ The event was hosted by over 20 organisations looking for the next generation of
 “It was great to see so many students engaging with the different career options on display. Many students showed an interest in what working with satellite data entails, I think our giant satellite image mat helped! And readily engaged in discussions surrounding how it can be used to look at our planet and investigate changes.  ” - Morag
 
 <br/>
-![SatSchool footer](/img/satschool-footer.png "SatSchool footer")
