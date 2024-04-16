@@ -2,7 +2,7 @@
 layout: page
 title: Hands on with Data
 subtitle: 
-hero_height: is-large
+hero_height: is-medium
 #hero_link: /page-1/
 #hero_link_text: Example Call To Action
 hero_image: /img/mod-img/egmont-modis.jpg

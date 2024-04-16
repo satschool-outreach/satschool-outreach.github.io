@@ -2,7 +2,6 @@
 layout: page
 title: SatSchool Modules
 subtitle: Each of the modules below contain links to StoryMaps, presentations, lesson plans, and activities
-subsubtitle: test
 hero_height: is-medium
 #hero_link: /page-1/
 #hero_link_text: Example Call To Action
