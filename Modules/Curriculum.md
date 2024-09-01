@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Curriculum Links
-subtitle: This page lists the topics covered in the KS3 England Curriculum.  For each topic, you'll find a learning link of how it connects to the relevant materials within the SatSchool Modules.
+subtitle: Here you will find the KS3 England Curriculum and the learning links in the SatSchool resouces
 hero_height: is-medium
 #hero_link: /page-1/
 #hero_link_text: Example Call To Action

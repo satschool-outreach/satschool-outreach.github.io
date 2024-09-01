@@ -3,3 +3,65 @@
 $primary: #242E42;
 // Import Main CSS file from theme
 @import "main";
+
+.image-text-container {
+    display: flex;
+    align-items: center;
+    gap: 1rem; /* Space between text and image */
+}
+
+.image-content {
+    /* Add styles to control image appearance */
+    flex: 1; /* Makes sure image content takes up space in flex container */
+    max-width: 5cm; /* Ensure image doesn't overflow its container */
+}
+
+.text-content {
+    /* Add styles to control text appearance */
+    flex: 1; /* Makes sure text content takes up space in flex container */
+    font-size: 1rem; /* Adjust font size */
+    line-height: 1.5; /* Adjust line height for better readability */
+    padding: 0.5rem; /* Add padding around the text */
+}
+
+.image-text-container.reverse {
+    flex-direction: row-reverse; // Reverse order: Image first, text second
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+  }
+  
+  .gallery-item {
+    flex: 1 1 calc(33.333% - 1rem); /* Adjusts item width and spacing */
+    box-sizing: border-box;
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  
+  .gallery-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  .card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adjust shadow as needed */
+    overflow: hidden;
+    transition: box-shadow 0.3s ease-in-out;
+  }
+  
+  .card:hover {
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); /* Shadow effect on hover */
+  }
+  
+  .card-content {
+    padding: 1rem;
+  }
+  
+  

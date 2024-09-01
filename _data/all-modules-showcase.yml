@@ -2,7 +2,11 @@ items:
   - title: SatSchool
     subtitle: Earth observation outreach for schools
     description: |-
-      SatSchool is an outreach programme for lower secondary school pupils to learn about Earth observation! The programme is designed and delivered by [PhD students](/team/) from [SENSE CDT](https://eo-cdt.org/). 
+      SatSchool is an outreach programme for lower secondary school pupils to learn about Earth observation! The programme is designed and delivered by [**PhD students**](/team/) from the [**SENSE CDT**](https://eo-cdt.org/) and other institutions.
+
+      You can find all the SatSchool modules [**here**](/Modules/All-Modules/). Each module is designed to be self-contained and can be completed in a single lesson. The modules are designed to be engaging and interactive, and to help pupils learn about the relevance of STEM subjects and the pathways to Earth observation careers.
+
+      **Are you a teacher?** Check out our [**For Teachers**](/lesson_ready/teachers/overview/) page for more information on how to use the modules in your classroom with **lesson ready resources**. 
     # image: ../img/all-logos.png
     # features:
     #   - This is a feature
@@ -11,6 +15,5 @@ items:
     image: ../img/footer_logo_only.png
     image_ratio: is-4243by2275
     link: /Modules/All-Modules/
-    link_text: Get started!
+    link_text: Get started!    
     tags: Engage with Earth observation science,Learn the relevance of STEM subjects,See pathways to Earth observation careers
-    # github: chrisrhymes/chrisrhymes.github.io
