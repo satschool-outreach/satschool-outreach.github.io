@@ -1,5 +1,18 @@
 - name: About
   link: /About/
+  dropdown:
+  - name: About us
+    link: /About/
+  - name: News
+    link: /News/
+  - name: Team
+    link: /team/
+  - name: Partners
+    link: /partners/
+  - name: EO Ambassador
+    link: /Ambassador/
+  - name: Contact
+    link: /Contact/
 - name: Modules
   link: Modules/All-Modules/
   dropdown:
@@ -17,13 +30,39 @@
     link: /Modules/Oceans/
   - name: Curriculum Links
     link: /Modules/Curriculum/
-- name: News
-  link: /News/  
-- name: Team
-  link: /team/  
-- name: Partners
-  link: /partners/ 
-- name: EO Ambassador
-  link: /Ambassador/ 
+- name: For Teachers
+  link: /lesson_ready/teachers/overview/
+  dropdown:
+  - name: Overview
+    link: /lesson_ready/teachers/overview/
+  - name: Intro to EO
+    link: /lesson_ready/teachers/intro-to-eo/
+  - name: Hands on with Data
+    link: /lesson_ready/teachers/handson/
+  - name: Biosphere
+    link: /lesson_ready/teachers/biosphere/
+  - name: Cryosphere
+    link: /lesson_ready/teachers/cryosphere/
+  - name: Atmosphere
+    link: /lesson_ready/teachers/atmosphere/
+  - name: Oceans
+    link: /lesson_ready/teachers/oceans/
+- name: For Students
+  link: /lesson_ready/students/overview/
+  dropdown:
+  - name: Overview
+    link: /lesson_ready/students/overview/
+  - name: Intro to EO
+    link: /lesson_ready/students/intro-to-eo/
+  - name: Hands on with Data
+    link: /lesson_ready/students/handson/
+  - name: Biosphere
+    link: /lesson_ready/students/biosphere/
+  - name: Cryosphere
+    link: /lesson_ready/students/cryosphere/
+  - name: Atmosphere
+    link: /lesson_ready/students/atmosphere/
+  - name: Oceans
+    link: /lesson_ready/students/oceans/
 - name: Contact
   link: /Contact/
