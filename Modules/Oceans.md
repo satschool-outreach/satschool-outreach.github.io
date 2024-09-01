@@ -40,32 +40,6 @@ show_sidebar: false
 
 <div class="columns is-multiline">
     <div class="column is-12">
-        <p class="title is-3 has-text-centered">Welcome to the Oceans module</p>
-    </div>
-    <div class="column is-4-desktop is-6-tablet">
-        <div class="card" style="box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
-            <div class="card-image">
-                <figure class="image is-16by16">
-                    <img src="/img/mod-logos/Oceans-07.png" alt="Oceans logo">
-                </figure>
-            </div>
-            <div class="card-content">
-                <div class="content">
-                    <h4>Welcome to the Oceans module</h4>
-                    <p>The oceans are the foundation of all life on Earth, and our planet's ecosystems depend on the health of the oceans to support and sustain them. In this module, you will learn about how we measure different ocean properties from space using satellites.</p>
-                    <p>You will learn about:</p>
-                    <ul>
-                        <li>Why studying the ocean is important</li>
-                        <li>The multiple ways satellites can be used</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="columns is-multiline">
-    <div class="column is-12">
         <p class="title is-3 has-text-centered">Resources</p>
     </div>
     <div class="column is-4-desktop is-6-tablet">
