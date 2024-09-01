@@ -23,6 +23,7 @@ show_sidebar: false
 
 ### For Teachers / Educators 
 * 12+ hours of freely-available resources and lesson plans to teach Earth Observation topics tailored to the Key Stage 3 / S1-3 curriculum (also applicable to KS4 and 5). 
+* Each module contains lesson ready resources to easily be able to deliver lessons about Earth Observation linked to the school curriculum. 
 * A network of Earth Observation ambassadors available to contact and arrange school visits. School visits can include:
   * An assembly-style talk
   * Cross-curricular classroom sessions covering a range of Earth Observation-related topics (see Modules page)
@@ -54,7 +55,6 @@ All modules are structured slightly differently, but contain:
   * Interactive ArcGIS StoryMap collection that students can work through on their own screen (computer / tablets / phone) or that can be led through by a presenter on a single larger screen. Each single StoryMap in the collection is estimated to take around 30-60 minutes to work through and complete. Each collection can stand alone or they can be used together to explore and understand the wide range of Earth Observation applications.
   * Worksheet print-outs out for students to complete during the sessions (answers provided). 
   * Interactive web app (Hands on with Data module only) that allows students to run their own experiments with satellite data, including running some basic code.
-
 
 ## Equipment / Software Requirements 
 
