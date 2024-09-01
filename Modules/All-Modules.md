@@ -13,7 +13,9 @@ show_sidebar: false
 #showcase: all-modules-showcase
 ---
 
-Below you can find each links to each of the SatSchool Modules. Within each link you will find all the content relevent for each module for you to deliver an Earth Observation lesson. You may
+Below you can find each links to each of the SatSchool Modules. Within each link you will find all the content relevent for each module for you to deliver an Earth Observation lesson. 
+
+You can find lesson-ready resources for each of the Modules by following the "For Teachers" or "For Students" tabs at the top of the webpage. 
 
 <p style="text-align: center; font-size: larger; font-weight: bold;">Links with the English curriculum can be found <a href="/Modules/Curriculum">here</a>. Scottish curriculum links coming soon!
 </p>
