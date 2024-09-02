@@ -41,7 +41,7 @@ You can find lesson-ready resources for each of the Modules by following the "Fo
     </a>
     <div class="card-content">
       <p>
-        <strong>Hands on with Data</strong><br>
+        <a href="/Modules/HandsOn/"><strong>Hands on with Data</strong><br></a>
         Get hands on with satellite data! Learn how to manipulate and understand data from satellites in a range of contexts.<br>
         <strong>Subject links: Computer Science, Geography, Maths</strong>
       </p>
@@ -55,7 +55,7 @@ You can find lesson-ready resources for each of the Modules by following the "Fo
     </a>
     <div class="card-content">
       <p>
-        <strong>Biosphere</strong><br>
+        <a href="/Modules/Biosphere/"><strong>Biosphere</strong><br></a>
         Learn how we use satellite data to measure the living parts of our planet.<br>
         <strong>Subject links: Geography, Biology, Physics</strong>
       </p>
@@ -69,7 +69,7 @@ You can find lesson-ready resources for each of the Modules by following the "Fo
     </a>
     <div class="card-content">
       <p>
-        <strong>Cryosphere</strong><br>
+        <a href="/Modules/Cryosphere/"><strong>Cryosphere</strong><br></a>
         Learn how we use satellite data to measure glaciers and ice sheets.<br>
         <strong>Subject links: Geography, Physics</strong>
       </p>
@@ -83,7 +83,7 @@ You can find lesson-ready resources for each of the Modules by following the "Fo
     </a>
     <div class="card-content">
       <p>
-        <strong>Atmosphere</strong><br>
+        <a href="/Modules/Atmosphere/"><strong>Atmosphere</strong><br></a>
         Learn how we use satellite data to measure the atmosphere around our planet.<br>
         <strong>Subject links: Chemistry, Geography, Physics</strong>
       </p>
@@ -97,7 +97,7 @@ You can find lesson-ready resources for each of the Modules by following the "Fo
     </a>
     <div class="card-content">
       <p>
-        <strong>Oceans</strong><br>
+        <a href="/Modules/Oceans/"><strong>Oceans</strong><br></a>
         Learn how we use satellite data to measure the oceans.<br>
         <strong>Subject links: Geography, Biology, Physics</strong>
       </p>
