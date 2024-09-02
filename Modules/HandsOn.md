@@ -24,11 +24,8 @@ show_sidebar: false
             <li>How to work with different kinds of satellite data yourself and the types of information it contains</li>
             <li>How to interpret maps and graphs displaying different types of environmental data</li>
         </ul>
-
-        <h5> <strong>Are you a Teacher?</strong> <a href="/lesson_ready/teachers/biosphere" target="_blank">Click here</a> or use the "For Teacher" tab in the navigation bar to view the lesson ready resources which includes lesson plans, activities, and presentations for display.</h5> 
-
+        <h5> <strong>Are you a Teacher?</strong> <a href="/lesson_ready/teachers/biosphere" target="_blank">Click here</a> or use the "For Teacher" tab in the navigation bar to view the lesson ready resources which include lesson plans, activities, and presentations for display.</h5> 
     </div>
-
     <!-- Image -->
     <div class="image-content">
         <figure class="image is-9by9">

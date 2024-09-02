@@ -16,7 +16,7 @@ show_sidebar: false
     <div class="text-content">
 <h2>Welcome to the Intro to Earth Observation module</h2>
     <p>Introduction to the science of Earth observation. Learn about satellites, how they work, and how we use them to measure our planet.</p>
-        <h5> <strong>Are you a Teacher?</strong> <a href="/lesson_ready/teachers/biosphere" target="_blank">Click here</a> or use the "For Teacher" tab in the navigation bar to view the lesson ready resources which includes lesson plans, activities, and presentations for display.</h5> 
+        <h5> <strong>Are you a Teacher?</strong> <a href="/lesson_ready/teachers/biosphere" target="_blank">Click here</a> or use the "For Teacher" tab in the navigation bar to view the lesson ready resources which include lesson plans, activities, and presentations for display.</h5> 
     </div>
     <!-- Image -->
     <div class="image-content">
