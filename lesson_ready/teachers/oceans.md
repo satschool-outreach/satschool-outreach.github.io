@@ -19,21 +19,22 @@ show_sidebar: false
 <div class="image-text-container">
     <!-- Text beside the image -->
     <div class="text-content">
-<h4>Lesson 1: Warm & Salty Oceans</h4>
+    <p><a href="https://storymaps.arcgis.com/collections/28dec9a0aacd40e6bf349547fdde4557" target="_blank">StoryMap</a></p>
+    <h4>Lesson 1: Warm & Salty Oceans</h4>
         <p><a href="https://drive.google.com/file/d/1Dxb8JzL3vbjbqRZR0WHIA-BaoguiZg5E/view?usp=drive_link" target="_blank">Lesson Plan</a></p>
         <p><a href="https://docs.google.com/presentation/d/1Pkca-U2o0UB2A-2bigiK6uXHMPeZPpRR/edit?usp=drive_link&ouid=116366667872663722927&rtpof=true&sd=true" target="_blank">Presentation</a></p>
         <h5>Activities:</h5>
         <ul>
             <li><a href="https://drive.google.com/file/d/1x4DxhzeMzQ73VDNTDF98EcdhWPcdYWdJ/view?usp=drive_link" target="_blank">Worksheet</a></li>
         </ul>
-<h4>Lesson 2: Wildlife from Space</h4>
+    <h4>Lesson 2: Wildlife from Space</h4>
         <p><a href="https://drive.google.com/file/d/1xcjvPl4-kLQt8aLNYZrr1YsY8AHSnYyL/view?usp=drive_link" target="_blank">Lesson Plan</a></p>
         <p><a href="https://docs.google.com/presentation/d/1j_Wee0PBfUrjDx0vVUnrb4a3KimSF4af/edit?usp=drive_link&ouid=116366667872663722927&rtpof=true&sd=true" target="_blank">Presentation</a></p>
         <h5>Activities:</h5>
         <ul>
             <li><a href="https://drive.google.com/file/d/1ajKskwyoxjlkjc41x_GdYKOyDsNqIKKC/view?usp=drive_link" target="_blank">Worksheet</a></li>
         </ul>
-<h4>Lesson 3: Ocean Colour from Space</h4>
+    <h4>Lesson 3: Ocean Colour from Space</h4>
         <p><a href="https://drive.google.com/file/d/1wsh8NEPBxDUH2dulafBV1-bI4N3pWX_Q/view?usp=drive_link" target="_blank">Lesson Plan</a></p>
         <p><a href="https://docs.google.com/presentation/d/10IKYeHHFoNWsh0oaXbfuntVPZllHM4La/edit?usp=drive_link&ouid=116366667872663722927&rtpof=true&sd=true" target="_blank">Presentation</a></p>
         <h5>Activities:</h5>

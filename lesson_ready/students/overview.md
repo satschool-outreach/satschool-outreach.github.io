@@ -26,12 +26,13 @@ show_sidebar: false
 
 > ### [Intro to EO](../Intro-to-EO)
 > <div class="image-text-container">
->     <!-- Text beside the image -->
->     <div class="text-content">
->         <p><a href="https://docs.google.com/presentation/d/1DtLDl2TF6vHQxkGdlKsbvcCGsKM3x7FU/edit?usp=drive_link&ouid=116366667872663722927&rtpof=true&sd=true" target="_blank">Presentation</a></p>
->         <p><a href="https://docs.google.com/presentation/d/1y7VpEH7wmustkRxZaiRHm4B2ekM5U4c-/edit?usp=drive_link&ouid=116366667872663722927&rtpof=true&sd=true" target="_blank">Presentation (Short version)</a></p>
->         <h5>Activities:</h5>
->         <ul>
+>    <!-- Text beside the image -->
+>    <div class="text-content">
+>    <p><a href="https://arcg.is/1GSKWv" target="_blank">StoryMap</a></p>
+>    <p><a href="https://docs.google.com/presentation/d/1DtLDl2TF6vHQxkGdlKsbvcCGsKM3x7FU/edit?usp=drive_link&ouid=116366667872663722927&rtpof=true&sd=true" target="_blank">Presentation</a></p>
+>    <p><a href="https://docs.google.com/presentation/d/1y7VpEH7wmustkRxZaiRHm4B2ekM5U4c-/edit?usp=drive_link&ouid=116366667872663722927&rtpof=true&sd=true" target="_blank">Presentation (Short version)</a></p>
+>    <h5>Activities:</h5>
+>    <ul>
 >             <li><a href="https://drive.google.com/file/d/1CYdcIxZ_NVOaINRb0bN6G5d7j2uH0mJd/view?usp=drive_link" target="_blank">Worksheets 1-3</a></li>
 >             <li><a href="https://drive.google.com/file/d/18hjEDDWA_MW_F0Un-K2QtWDLknSubqdB/view?usp=drive_link" target="_blank">Worksheet 3 Answers (Online version)</a></li>
 >         </ul>
@@ -68,6 +69,7 @@ show_sidebar: false
 > <div class="image-text-container">
 >     <!-- Text beside the image -->
 >     <div class="text-content">
+>     <p><a href="https://storymaps.arcgis.com/stories/446d589226544403b86abb786829d5f8" target="_blank">StoryMap</a></p>
 >         <p><a href="https://docs.google.com/presentation/d/10Zqdjepoa1leas8pHbDIWqscRMUMNHCY/edit?usp=drive_link&ouid=116366667872663722927&rtpof=true&sd=true" target="_blank">Presentation</a></p>
 >         <h5>Activities:</h5>
 >         <ul>
@@ -87,6 +89,7 @@ show_sidebar: false
 > <div class="image-text-container">
 >     <!-- Text beside the image -->
 >     <div class="text-content">
+>     <p><a href="https://storymaps.arcgis.com/collections/48a40a6c28ff4996a42ee042d303012c" target="_blank">StoryMap</a></p>
 >         <p><a href="https://docs.google.com/presentation/d/1dtb2tOwWzFPBsl-mg4xEfY1EUyouE5C3/edit?usp=drive_link&ouid=116366667872663722927&rtpof=true&sd=true">Presentation</a></p>
 >         <h5>Activities:</h5>
 >         <ul>
@@ -106,6 +109,7 @@ show_sidebar: false
 > <div class="image-text-container">
 >     <!-- Text beside the image -->
 >     <div class="text-content">
+>     <p><a href="https://storymaps.arcgis.com/collections/93319a7b7e144dbf852b10d74c44631d" target="_blank">StoryMap</a></p>
 > <h4>Lesson 1: Ozone from Space</h4>
 >         <p><a href="https://docs.google.com/presentation/d/1DLTnPd5Nfc72YSdxqKSuu8f5qXV-buiu/edit?usp=drive_link&ouid=116366667872663722927&rtpof=true&sd=true" target="_blank">Presentation</a></p>
 >         <h5>Activities:</h5>
@@ -135,6 +139,7 @@ show_sidebar: false
 > <div class="image-text-container">
 >     <!-- Text beside the image -->
 >     <div class="text-content">
+>     <p><a href="https://storymaps.arcgis.com/collections/28dec9a0aacd40e6bf349547fdde4557" target="_blank">StoryMap</a></p>
 > <h4>Lesson 1: Warm & Salty Oceans</h4>
 >         <p><a href="https://docs.google.com/presentation/d/1Pkca-U2o0UB2A-2bigiK6uXHMPeZPpRR/edit?usp=drive_link&ouid=116366667872663722927&rtpof=true&sd=true" target="_blank">Presentation</a></p>
 >         <h5>Activities:</h5>

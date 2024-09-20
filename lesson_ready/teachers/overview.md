@@ -50,6 +50,7 @@ Each resource pack contains:
 > <div class="image-text-container">
 >     <!-- Text beside the image -->
 >     <div class="text-content">
+>     <p><a href="https://arcg.is/1GSKWv" target="_blank">StoryMap</a></p>
 >         <p><a href="https://drive.google.com/file/d/1xBKnYd3MM_O7iP_B7MB5mpt2cD5DztKE/view?usp=drive_link" target="_blank">Lesson Plan</a></p>
 >         <p><a href="https://docs.google.com/presentation/d/1DtLDl2TF6vHQxkGdlKsbvcCGsKM3x7FU/edit?usp=drive_link&ouid=116366667872663722927&rtpof=true&sd=true" target="_blank">Presentation</a></p>
 >         <p><a href="https://docs.google.com/presentation/d/1y7VpEH7wmustkRxZaiRHm4B2ekM5U4c-/edit?usp=drive_link&ouid=116366667872663722927&rtpof=true&sd=true" target="_blank">Presentation (Short version)</a></p>
@@ -99,6 +100,7 @@ Each resource pack contains:
 > <div class="image-text-container">
 >     <!-- Text beside the image -->
 >     <div class="text-content">
+>     <p><a href="https://storymaps.arcgis.com/stories/446d589226544403b86abb786829d5f8" target="_blank">StoryMap</a></p>
 >         <p><a href="https://drive.google.com/file/d/13lFY-GDd-JayrKL3LjybAoG7eLMoyxnV/view?usp=drive_link" target="_blank">Lesson Plan</a></p>
 >         <p><a href="https://docs.google.com/presentation/d/10Zqdjepoa1leas8pHbDIWqscRMUMNHCY/edit?usp=drive_link&ouid=116366667872663722927&rtpof=true&sd=true" target="_blank">Presentation</a></p>
 >         <h5>Activities:</h5>
@@ -124,6 +126,7 @@ Each resource pack contains:
 > <div class="image-text-container">
 >     <!-- Text beside the image -->
 >     <div class="text-content">
+>     <p><a href="https://storymaps.arcgis.com/collections/48a40a6c28ff4996a42ee042d303012c" target="_blank">StoryMap</a></p>
 >         <p><a href="https://drive.google.com/file/d/1v0Uw24SDj1izO_9-m9w0hgutKSBxlw_P/view?usp=drive_link" target="_blank">Lesson Plan</a></p>
 >         <p><a href="https://docs.google.com/presentation/d/1dtb2tOwWzFPBsl-mg4xEfY1EUyouE5C3/edit?usp=drive_link&ouid=116366667872663722927&rtpof=true&sd=true">Presentation</a></p>
 >         <h5>Activities:</h5>
@@ -144,6 +147,7 @@ Each resource pack contains:
 > <div class="image-text-container">
 >     <!-- Text beside the image -->
 >     <div class="text-content">
+>     <p><a href="https://storymaps.arcgis.com/collections/93319a7b7e144dbf852b10d74c44631d" target="_blank">StoryMap</a></p>
 > <h4>Lesson 1: Ozone from Space</h4>
 >         <p><a href="https://drive.google.com/file/d/1V3S_I5CgmRyKCGSyoa6orQtSPTBZsVW5/view?usp=drive_link" target="_blank">Lesson Plan</a></p>
 >         <p><a href="https://docs.google.com/presentation/d/1DLTnPd5Nfc72YSdxqKSuu8f5qXV-buiu/edit?usp=drive_link&ouid=116366667872663722927&rtpof=true&sd=true" target="_blank">Presentation</a></p>
@@ -176,6 +180,7 @@ Each resource pack contains:
 > <div class="image-text-container">
 >     <!-- Text beside the image -->
 >     <div class="text-content">
+>     <p><a href="https://storymaps.arcgis.com/collections/28dec9a0aacd40e6bf349547fdde4557" target="_blank">StoryMap</a></p>
 > <h4>Lesson 1: Warm & Salty Oceans</h4>
 >         <p><a href="https://drive.google.com/file/d/1Dxb8JzL3vbjbqRZR0WHIA-BaoguiZg5E/view?usp=drive_link" target="_blank">Lesson Plan</a></p>
 >         <p><a href="https://docs.google.com/presentation/d/1Pkca-U2o0UB2A-2bigiK6uXHMPeZPpRR/edit?usp=drive_link&ouid=116366667872663722927&rtpof=true&sd=true" target="_blank">Presentation</a></p>

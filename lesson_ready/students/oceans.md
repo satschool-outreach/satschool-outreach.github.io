@@ -19,6 +19,7 @@ show_sidebar: false
 <div class="image-text-container">
     <!-- Text beside the image -->
     <div class="text-content">
+    <p><a href="https://storymaps.arcgis.com/collections/28dec9a0aacd40e6bf349547fdde4557" target="_blank">StoryMap</a></p>
 <h4>Lesson 1: Warm & Salty Oceans</h4>
         <p><a href="https://docs.google.com/presentation/d/1Pkca-U2o0UB2A-2bigiK6uXHMPeZPpRR/edit?usp=drive_link&ouid=116366667872663722927&rtpof=true&sd=true" target="_blank">Presentation</a></p>
         <h5>Activities:</h5>
