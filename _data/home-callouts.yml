@@ -15,7 +15,7 @@ items:
     icon: fa-school
     description: >
       Go straight to the resources. 
-    call_to_action_name: Modules
+    call_to_action_name: Resources
     call_to_action_link: /Modules/All-Modules
 
   - title: Become an EO Ambassador!

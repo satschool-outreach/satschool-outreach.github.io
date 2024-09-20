@@ -13,21 +13,6 @@
     link: /Ambassador/
   - name: Contact
     link: /Contact/
-- name: Modules
-  link: Modules/All-Modules/
-  dropdown:
-  - name: Introduction to Earth Observation
-    link: /Modules/Intro-to-EO/
-  - name: Hands on with Data
-    link: /Modules/HandsOn/
-  - name: Biosphere
-    link: /Modules/Biosphere/
-  - name: Cryosphere
-    link: /Modules/Cryosphere/
-  - name: Atmosphere
-    link: /Modules/Atmosphere/
-  - name: Oceans
-    link: /Modules/Oceans/
   - name: Curriculum Links
     link: /Modules/Curriculum/
 - name: For Teachers
@@ -64,5 +49,22 @@
     link: /lesson_ready/students/atmosphere/
   - name: Oceans
     link: /lesson_ready/students/oceans/
+- name: Additional Resources
+  link: Modules/All-Modules/
+  dropdown:
+  - name: Introduction to Earth Observation
+    link: /Modules/Intro-to-EO/
+  - name: Hands on with Data
+    link: /Modules/HandsOn/
+  - name: Biosphere
+    link: /Modules/Biosphere/
+  - name: Cryosphere
+    link: /Modules/Cryosphere/
+  - name: Atmosphere
+    link: /Modules/Atmosphere/
+  - name: Oceans
+    link: /Modules/Oceans/
+  - name: Curriculum Links
+    link: /Modules/Curriculum/
 - name: Contact
   link: /Contact/
