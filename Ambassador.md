@@ -22,6 +22,6 @@ The key aim of an EO Ambassador is to inspire the next generation of EO scientis
 - Be part of the EO outreach community
 - Be a recognised EO Ambassador on the SatSchool website
 
-### If you want to become an EO Ambassador, sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSeY4sGm8cEBrWoI7_UNyiK8bjN9OssUh7SzYXCtZPyS5KJdkA/viewform)
+### If you want to become an EO Ambassador, sign up [here](http://eepurl.com/i0znr6)
 
 <br/><br/><br/><br/><br/>

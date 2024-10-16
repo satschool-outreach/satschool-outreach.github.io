@@ -31,6 +31,6 @@ show_sidebar: false
 - Be part of the EO outreach community 
 - Be a recognised EO Ambassador on the SatSchool website
 
-If you want to become an EO Ambassador, sign up [here](https://forms.gle/NfNE2NWGk3mvph4s6)
+If you want to become an EO Ambassador, sign up [here](http://eepurl.com/i0znr6)
 
 <br/><br/><br/><br/><br/>
