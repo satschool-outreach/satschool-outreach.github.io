@@ -15,113 +15,22 @@
 
 - title: SatSchool Committee
   images:
-    - link: /img/team/calum-hoad.png
-      alt: picture of Calum Hoad
-      description: |-
-        ## Calum Hoad (he/him)
-        **Co-founder of SatSchool | Chair**
-
-        Biosphere Module Lead, Designer of SatSchool graphics and website
-
-        #### Researcher profile:
-        - Calum is a geographer and graphic designer who has followed his interests throughout his education and career to date;
-        - He uses these skills to study changes in Arctic vegetation using satellite data, which has taken him to some amazing places;
-        - He believes that if you work hard at the things you love doing, you will end up in the right place eventually - there’s many paths and none of them are ‘correct’ - you’ve just got to keep doing whatever is best for you!
-
-      ratio: is-250by200
-    - link: /img/team/bryony-freer.png
-      alt: picture of Bryony Freer
-      description: |-
-        ## Bryony Freer (she/her)
-        **Co-founder of SatSchool | Vice-Chair**
-
-        Intro to Earth Observation Module Lead
-        #### Researcher profile:
-        - Bryony came to work in the Earth Observation field from a Geography and GIS (Geographic Information Science) background, having done A Levels in Geography, Physics, Music and German - so a real mix!
-        - She is now doing a PhD at the British Antarctic Survey, studying changes in the Antarctic ice sheet using data from NASA's ICESat-2 satellite (essentially a giant laser in space!).
-        - She enjoys earth observation and is constantly amazed by the vast amount and quality of data collected by Earth Observation satellites and how it has revolutionised the ways in which we can monitor changes happening on our planet, which is more important than ever during the ongoing climate crisis.
-
-      ratio: is-250by200
-    - link: /img/team/morag-fotheringham-02.png
-      alt: image of Morag Fotheringham
-      description: |-
-        ## Morag Fotheringham (she/her)
-        **Co-founder of SatSchool | Secretary**
-
-        Cryosphere Module Lead   
-        #### Researcher profile:
-        - Morag has a Physics and Climate modeling background, having done Higher IB Maths Physics and Chemistry. Working in Earth Observation was not a career that was known to her at high school!
-        - She is currently a PhD student at the University of Edinburgh, monitoring how the Arctic’s ice caps and glaciers are responding to changes in climate using data from ESA’s CryoSat-2 satellite.
-        - Her Phd has given her amazing opportunities to explore the polar regions both in-person and through the satellite data. And she finds work extremely rewarding, providing insight into how polar regions are responding to climate change so as to be able to inform policy makers and the public on how we are affecting our planet.
-      ratio: is-250by200
-
-    - link: /img/team/emily-dowd.png
-      large_link: /img/team/emily-dowd.png
-      alt: picture of Emily Dowd
-      description: |-
-        ## Emily Dowd (she/her)
-        **Co-founder of SatSchool | Treasurer**
-
-        Atmosphere Module Lead
-
-        #### Researcher profile:
-        - Emily enjoyed studying science subjects at school, taking physics, maths and chemistry at A-level before going on to study Physics with Meteorology at university
-        - She worked as a meteorologist for 2 years
-        - Emily researches global and local changes in atmospheric methane using computer models and satellites.
-      ratio: is-250by200
-
-    - link: /img/team/nick-homer-02.png
-      alt: image of Nick Homer
-      description: |-
-        ## Nick Homer (he/him)
-        **Funding and Grants Researcher**
-
-        Cryosphere Module Assistant
-
-        #### Researcher profile:
-        - Nick completed his Geography BSc from the University of Edinburgh
-        - He worked in data science in the renewable energy sector following his undergraduate degree
-        - His PhD project is on image processing and machine learning applied to earth observation of the cryosphere
-
-      ratio: is-250by200
-    - link: /img/team/jacob-connolly-02.jpeg
-      alt: image of Jacob Connolly
-      description: |-
-        ## Jacob Connolly (he/him)
-        **Website Developer**
-        #### Researcher Profile:
-
-        - Jacob did his undergraduate in Physics with Astrophysics after studying Maths, Physics and Art at A-level.
-        - He decided to pursue a PhD because he enjoys research, learning about physics, being involved with space science, and getting to do a lot of programming.
-        - Jacob is interested in working in satellite data science following his PhD.
-      ratio: is-250by200
 
     - link: /img/team/leam-howe-02.png
       alt: image of Leam Howe
       description: |-
         ## Leam Howe (he/him)
-        **Resource Maintenance**
+        **Chair**
         #### Researcher profile:
         - Leam enjoyed maths and physics at school, choosing to do a Physics degree at the University of Nottingham]
         - He enjoys the outdoors and began to see the effects of climate change, as a result he chose to do a Masters in Climate and Atmospheric Science
         - Leam is now a PhD student at the University of Edinburgh studying mountain snow patches using remote sensing
 
-    - link: /img/team/alice-hopkins.jpg
-      alt: image of Alice Hopkins
-      description: |-
-        ## Alice Hopkins (she/her)
-        **EO Ambassador Network Coordinator** 
-
-        #### Researcher profile:
-        - Alice loved studying science and maths at school and applying them to learn about the world around her
-        - She went on to study physics at university, throughout which she especially loved learning about the dynamics of systems on earth and other planets.
-        - Now she studies a PhD in remote sensing of underwater volcanoes for hazard mitigation –  showing that you can study so many cool and important things using physics and satellites! 
-
     - link: /img/team/catherine-mercer.jpg
       alt: image of Catherine Mercer
       description: |-
         ## Catherine Mercer (they/them)
-        **External Comms (Edinburgh/Scotland)**
+        **Website Developer**
 
         #### Researcher profile:
         - Catherine loved exploring forests at an early age and chose a career that would allow them to spend more time in forest ecosystems, while getting to travel too. 
@@ -154,42 +63,71 @@
 
       ratio: is-250by200
 
-    - link: /img/team/hao-wu-02.jpg
-      alt: image of Hao Wu
+- title: Alumni and Content Creators
+  images:
+    - link: /img/team/calum-hoad.png
+      alt: image of Calum Hoad 
       description: |-
-        ## Hao Wu (she/her)
-        **Events Coordinator**
-        #### Researcher profile:
-        - Hao is a PhD candidate from the University of Dundee(CEPMLP/Law school); an IUCN early career specialist; SAGES Associate PhD.
-        - Hao has been enjoying environmental law, which is unique in that it cannot be confined to the law itself but is a product of the interdisciplinary nature of environmental science and law. 
-        - Observation of the Earth’s environment and the mandatory protection of the environment and natural resources by law are the attractions of environmental jurisprudence.
-
-      ratio: is-250by200
-
+        ## Calum Hoad 
+        Co-founder of SatSchool 
+        
+        Chair 23/24
+      ratio: is-250by200 
+    - link: /img/team/bryony-freer.png
+      alt: picture of Bryony Freer
+      description: |-
+        ## Bryony Freer
+        Co-founder of SatSchool 
+        
+        Vice-Chair 23/24
+      ratio: is-250by200  
+    - link: /img/team/morag-fotheringham-02.png
+      alt: image of Morag Fotheringham
+      description: |-
+        ## Morag Fotheringham 
+         Co-founder of SatSchool 
+         
+         Secretary 23/24
+      ratio: is-250by200  
+    - link: /img/team/emily-dowd.png
+      large_link: /img/team/emily-dowd.png
+      alt: picture of Emily Dowd
+      description: |-
+        ## Emily Dowd
+        Co-founder of SatSchool
+        
+        Treasurer
+    - link: /img/team/nick-homer-02.png
+      alt: image of Nick Homer
+      description: |-
+       ## Nick Homer
+       Funding and Grants Researcher 23/24
+    - link: /img/team/jacob-connolly-02.jpeg
+      alt: image of Jacob Connolly
+      description: |-
+       ## Jacob Connolly
+         Website Developer 23/34
+    - link: /img/team/alice-hopkins.jpg
+      alt: image of Alice Hopkins
+      description: |-
+         ## Alice Hopkins 
+         EO Ambassador Network Coordinator 23/24
     - link: /img/team/sam-bancroft.png
       alt: image of Sam Bancroft
       description: |-
-        ## Sam Bancroft (he/him)
-        **Regular Member**
-
-        Hands on with Data Module Assistant, designer of the Hands on with Data website    
-        #### Researcher profile:
-        - Physics background, realised remote sensing combines a lot of what he studied and is good at.
-        - Worked in industry prior to PhD which really set him up for starting his project.
-        - Sam loves keeping up-to-date with the latest machine learning techniques and hopes to return to industry.
-
-      ratio: is-250by200
-
-    # - link: /img/team/natalie-nickels.png
+         ## Sam Bancroft
+         Regular Member 23/24
+    - link: /img/team/hao-wu-02.jpg
+      alt: image of Hao Wu
+      description: |-
+         ## Hao Wu 
+         Events Coordinator 23/24
     - link: /img/team/placeholder.png
       alt: image of Natalie Nickels
       description: |-
         ## Natalie Nickels
         **Regular Member**
       ratio: is-250by200
-
-- title: Content Creators
-  images:
     - link: /img/team/sol-white.png
       alt: image of Sol White
       description: |-
@@ -255,3 +193,140 @@
       description: |-
         ## Ruth Amey
         Reporting Manager      
+      ratio: is-250by200
+
+
+
+
+# - link: /img/team/calum-hoad.png
+#       alt: picture of Calum Hoad
+#       description: |-
+#         ## Calum Hoad (he/him)
+#         **Co-founder of SatSchool | Chair**
+
+#         Biosphere Module Lead, Designer of SatSchool graphics and website
+
+#         #### Researcher profile:
+#         - Calum is a geographer and graphic designer who has followed his interests throughout his education and career to date;
+#         - He uses these skills to study changes in Arctic vegetation using satellite data, which has taken him to some amazing places;
+#         - He believes that if you work hard at the things you love doing, you will end up in the right place eventually - there’s many paths and none of them are ‘correct’ - you’ve just got to keep doing whatever is best for you!
+
+#       ratio: is-250by200
+
+# - link: /img/team/bryony-freer.png
+#       alt: picture of Bryony Freer
+#       description: |-
+#         ## Bryony Freer (she/her)
+#         **Co-founder of SatSchool | Vice-Chair**
+
+#         Intro to Earth Observation Module Lead
+#         #### Researcher profile:
+#         - Bryony came to work in the Earth Observation field from a Geography and GIS (Geographic Information Science) background, having done A Levels in Geography, Physics, Music and German - so a real mix!
+#         - She is now doing a PhD at the British Antarctic Survey, studying changes in the Antarctic ice sheet using data from NASA's ICESat-2 satellite (essentially a giant laser in space!).
+#         - She enjoys earth observation and is constantly amazed by the vast amount and quality of data collected by Earth Observation satellites and how it has revolutionised the ways in which we can monitor changes happening on our planet, which is more important than ever during the ongoing climate crisis.
+
+#       ratio: is-250by200
+
+#  - link: /img/team/morag-fotheringham-02.png
+#       alt: image of Morag Fotheringham
+#       description: |-
+#         ## Morag Fotheringham (she/her)
+#         **Co-founder of SatSchool | Secretary**
+
+#         Cryosphere Module Lead   
+#         #### Researcher profile:
+#         - Morag has a Physics and Climate modeling background, having done Higher IB Maths Physics and Chemistry. Working in Earth Observation was not a career that was known to her at high school!
+#         - She is currently a PhD student at the University of Edinburgh, monitoring how the Arctic’s ice caps and glaciers are responding to changes in climate using data from ESA’s CryoSat-2 satellite.
+#         - Her Phd has given her amazing opportunities to explore the polar regions both in-person and through the satellite data. And she finds work extremely rewarding, providing insight into how polar regions are responding to climate change so as to be able to inform policy makers and the public on how we are affecting our planet.
+#       ratio: is-250by200
+
+
+  # - link: /img/team/emily-dowd.png
+  #     large_link: /img/team/emily-dowd.png
+  #     alt: picture of Emily Dowd
+  #     description: |-
+  #       ## Emily Dowd (she/her)
+  #       **Co-founder of SatSchool | Treasurer**
+
+  #       Atmosphere Module Lead
+
+  #       #### Researcher profile:
+  #       - Emily enjoyed studying science subjects at school, taking physics, maths and chemistry at A-level before going on to study Physics with Meteorology at university
+  #       - She worked as a meteorologist for 2 years
+  #       - Emily researches global and local changes in atmospheric methane using computer models and satellites.
+  #     ratio: is-250by200
+
+
+      # - link: /img/team/nick-homer-02.png
+      # alt: image of Nick Homer
+      # description: |-
+      #   ## Nick Homer (he/him)
+      #   **Funding and Grants Researcher**
+
+      #   Cryosphere Module Assistant
+
+      #   #### Researcher profile:
+      #   - Nick completed his Geography BSc from the University of Edinburgh
+      #   - He worked in data science in the renewable energy sector following his undergraduate degree
+      #   - His PhD project is on image processing and machine learning applied to earth observation of the cryosphere
+
+      # ratio: is-250by200
+
+  # - link: /img/team/jacob-connolly-02.jpeg
+  #     alt: image of Jacob Connolly
+  #     description: |-
+  #       ## Jacob Connolly (he/him)
+  #       **Website Developer**
+  #       #### Researcher Profile:
+
+  #       - Jacob did his undergraduate in Physics with Astrophysics after studying Maths, Physics and Art at A-level.
+  #       - He decided to pursue a PhD because he enjoys research, learning about physics, being involved with space science, and getting to do a lot of programming.
+  #       - Jacob is interested in working in satellite data science following his PhD.
+  #     ratio: is-250by200
+
+
+  #  - link: /img/team/alice-hopkins.jpg
+  #     alt: image of Alice Hopkins
+  #     description: |-
+  #       ## Alice Hopkins (she/her)
+  #       **EO Ambassador Network Coordinator** 
+
+  #       #### Researcher profile:
+  #       - Alice loved studying science and maths at school and applying them to learn about the world around her
+  #       - She went on to study physics at university, throughout which she especially loved learning about the dynamics of systems on earth and other planets.
+  #       - Now she studies a PhD in remote sensing of underwater volcanoes for hazard mitigation –  showing that you can study so many cool and important things using physics and satellites! 
+
+
+    # # - link: /img/team/natalie-nickels.png
+    # - link: /img/team/placeholder.png
+    #   alt: image of Natalie Nickels
+    #   description: |-
+    #     ## Natalie Nickels
+    #     **Regular Member**
+    #   ratio: is-250by200
+
+      # - link: /img/team/sam-bancroft.png
+      # alt: image of Sam Bancroft
+      # description: |-
+      #   ## Sam Bancroft (he/him)
+      #   **Regular Member**
+
+      #   Hands on with Data Module Assistant, designer of the Hands on with Data website    
+      #   #### Researcher profile:
+      #   - Physics background, realised remote sensing combines a lot of what he studied and is good at.
+      #   - Worked in industry prior to PhD which really set him up for starting his project.
+      #   - Sam loves keeping up-to-date with the latest machine learning techniques and hopes to return to industry.
+
+      # ratio: is-250by200
+
+#  - link: /img/team/hao-wu-02.jpg
+#       alt: image of Hao Wu
+#       description: |-
+#         ## Hao Wu (she/her)
+#         **Events Coordinator**
+#         #### Researcher profile:
+#         - Hao is a PhD candidate from the University of Dundee(CEPMLP/Law school); an IUCN early career specialist; SAGES Associate PhD.
+#         - Hao has been enjoying environmental law, which is unique in that it cannot be confined to the law itself but is a product of the interdisciplinary nature of environmental science and law. 
+#         - Observation of the Earth’s environment and the mandatory protection of the environment and natural resources by law are the attractions of environmental jurisprudence.
+
+#       ratio: is-250by200
