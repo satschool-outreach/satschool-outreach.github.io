@@ -25,7 +25,10 @@
         - Leam enjoyed maths and physics at school, choosing to do a Physics degree at the University of Nottingham]
         - He enjoys the outdoors and began to see the effects of climate change, as a result he chose to do a Masters in Climate and Atmospheric Science
         - Leam is now a PhD student at the University of Edinburgh studying mountain snow patches using remote sensing
-    - link: /img/team/Catherine_Mercer.jpg
+    
+      ratio: is-250by200
+
+    - link: /img/team/Catherine_mercer.jpeg
       alt: image of Catherine Mercer
       description: |-
         ## Catherine Mercer (they/them)
@@ -35,9 +38,10 @@
         - Catherine loved exploring forests at an early age and chose a career that would allow them to spend more time in forest ecosystems, while getting to travel too. 
         - Catherine is currently a PhD student at the University of Stirling, studying the effects of climate change on forests and mountain plants in Taiwan.
         - Earth Observation is a key tool for understanding how forests are responding to climate change and can be used to conserve rare species. 
+      
       ratio: is-250by200
       
-    - link: /img/team/alex_lewis.jpg
+    - link: /img/team/alex_lewis.jpeg
       alt: image of Alex Lewis
       description: |-
         ## Alex Lewis (he/they)
@@ -46,7 +50,9 @@
         - Alex enjoyed science and maths at school, going on to study Physics at university
         - After graduating, Alex knew that they wanted to pursue a career in research but decided that transferring to the environmental sciences would allow them to pursue an area that they had a deeper interest in.
         - Alex is currently researching convective systems using machine learning, satellite data and computer models.
+      
       ratio: is-250by200
+
     - link: /img/team/rebecca-wilks.jpg
       alt: image of Becky Wilks
       description: |-
@@ -56,8 +62,10 @@
         - Enjoys working in Earth Observation research, as the work directly helps with current environmental crisis'.
         - At school, Becky loved Maths and went on to study Maths at The University of Leeds, and then Statistics at Imperial College London.
         - Currently Becky is a PhD student at The University of Edinburgh, applying earth observation data to aid elephant conservation.
+      
       ratio: is-250by200
-    - link: /img/team/hannah_picton.jpg
+
+    - link: /img/team/hannah_picton.jpeg
       alt: image of Hannah Picton 
       description: |-
         ## Hannah Picton (she/her)
@@ -66,8 +74,10 @@
         - Hannah is a PhD student at the University of Edinburgh, studying the impact of climatic forcing on the recent ice dynamics of the Greenland Ice Sheet.
         - Whilst initially interested in glacial geomorphology, Hannah was introduced to the power of remote sensing and earth observation whilst studying BSc Geography at the University of Durham.
         - The use of satellite imagery has revolutionised glaciology, allowing researchers like Hannah to study the Greenland and Antarctic Ice Sheets from home. 
+      
       ratio: is-250by200
-    - link: /img/team/yvonne_anderson.jpg
+
+    - link: /img/team/yvonne_anderson.jpeg
       alt: image of Yvonne Anderson
       description: |-
         ## Yvonne Anderson (she/her)
@@ -76,8 +86,10 @@
         - At school, Yvonne enjoyed chemistry, maths and music, choosing to study chemistry at the university of Edinburgh. There, she became passionate about outreach through volunteering at science festivals and leading the Women in STEM society.
         - Yvonne wanted to learn more about climate change so moved to Leeds to do a masters in climate and atmospheric science.
         - Yvonne is now a PhD student at the University of Leeds, researching atmosphere-ocean interactions in the North Atlantic.
+      
       ratio: is-250by200
-    - link: /img/team/Maria_Paula.jpg
+
+    - link: /img/team/Maria_Paula.jpeg
       alt: image of Maria Paula Veláquez-García
       description: |-
         ## Maria Paula Veláquez-García (she/her)
@@ -86,6 +98,7 @@
         - Maria is a PhD student at the University of Leeds investigating wildfire emissions and emissions interactions in the atmosphere.
         - At university, she was interested in how data can provide insights into various environmental processes.
         - Maria is now investigating fire emissions at a continental scale, mainly using satellites and models, while before, she was investigating them on a local scale using more in-situ measurements. 
+      
       ratio: is-250by200
 
 - title: Alumni and Content Creators
