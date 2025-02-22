@@ -1,0 +1,561 @@
+<!doctype html>
+
+
+
+
+<html
+    dir="ltr"
+    lang="en"
+    
+        class="has-navbar-fixed-top"
+    
+>
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" href="/assets/css/app.css">
+    <link
+        rel="shortcut icon"
+        type="image/png"
+        
+            href="/img/favicon.png"
+        
+    >
+    <script defer src="https://unpkg.com/alpinejs@3.9.0/dist/cdn.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+    
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-social@1/bin/bulma-social.min.css">
+    
+    <!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>SatSchool News | SatSchool</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="SatSchool News" />
+<meta property="og:locale" content="en" />
+<meta name="description" content="The website for the SatSchool outreach programme" />
+<meta property="og:description" content="The website for the SatSchool outreach programme" />
+<link rel="canonical" href="http://localhost:4000/News/" />
+<meta property="og:url" content="http://localhost:4000/News/" />
+<meta property="og:site_name" content="SatSchool" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="SatSchool News" />
+<script type="application/ld+json">
+{"url":"http://localhost:4000/News/","headline":"SatSchool News","description":"The website for the SatSchool outreach programme","@type":"WebPage","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <script>
+    // Define dataLayer and the gtag function.
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    // Set default consent to 'denied' as a placeholder
+    // Determine actual values based on your own requirements
+    gtag('consent', 'default', {
+        ad_storage: 'denied',
+        ad_user_data: 'denied',
+        ad_personalization: 'denied',
+        analytics_storage: 'denied',
+    });
+</script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GWRKPZ8HSP"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+    gtag('config', 'G-GWRKPZ8HSP');
+</script>
+
+<script>
+    function consentGrantedAdStorage() {
+        gtag('consent', 'update', {
+            ad_storage: 'granted',
+            ad_user_data: 'granted',
+            ad_personalization: 'granted',
+            analytics_storage: 'granted',
+        });
+    }
+</script>
+<!-- head scripts -->
+</head>
+
+    <body>
+        
+        <nav
+    class="navbar is-primary  is-fixed-top "
+    x-data="{ openNav: false }"
+>
+    <div class="container">
+        <div class="navbar-brand">
+            <a href="/" class="navbar-item">
+                SatSchool
+            </a>
+            <a
+                role="button"
+                class="navbar-burger burger"
+                aria-label="menu"
+                aria-expanded="false"
+                data-target="navMenu"
+                :class="{ 'is-active': openNav }"
+                x-on:click="openNav = !openNav"
+            >
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+        <div class="navbar-menu" id="navMenu" :class="{ 'is-active': openNav }">
+            <div class="navbar-start">
+                <a href="/" class="navbar-item ">Home</a>
+                
+                    
+                        
+                            <div class="navbar-item has-dropdown is-hoverable ">
+                                <a
+                                    href="/About/"
+                                    class="navbar-link "
+                                >About</a>
+                                <div class="navbar-dropdown">
+                                    
+                                        <a
+                                            href="/About/"
+                                            class="navbar-item "
+                                        >About us</a>
+                                    
+                                        <a
+                                            href="/News/"
+                                            class="navbar-item is-active"
+                                        >News</a>
+                                    
+                                        <a
+                                            href="/team/"
+                                            class="navbar-item "
+                                        >Team</a>
+                                    
+                                        <a
+                                            href="/partners/"
+                                            class="navbar-item "
+                                        >Partners</a>
+                                    
+                                        <a
+                                            href="/Ambassador/"
+                                            class="navbar-item "
+                                        >EO Ambassador</a>
+                                    
+                                        <a
+                                            href="/Contact/"
+                                            class="navbar-item "
+                                        >Contact</a>
+                                    
+                                        <a
+                                            href="/Modules/Curriculum/"
+                                            class="navbar-item "
+                                        >Curriculum Links</a>
+                                    
+                                </div>
+                            </div>
+                        
+                    
+                        
+                            <div class="navbar-item has-dropdown is-hoverable ">
+                                <a
+                                    href="/lesson_ready/teachers/overview/"
+                                    class="navbar-link "
+                                >For Teachers</a>
+                                <div class="navbar-dropdown">
+                                    
+                                        <a
+                                            href="/lesson_ready/teachers/overview/"
+                                            class="navbar-item "
+                                        >Overview</a>
+                                    
+                                        <a
+                                            href="/lesson_ready/teachers/Intro-to-EO/"
+                                            class="navbar-item "
+                                        >Intro to EO</a>
+                                    
+                                        <a
+                                            href="/lesson_ready/teachers/handson/"
+                                            class="navbar-item "
+                                        >Hands on with Data</a>
+                                    
+                                        <a
+                                            href="/lesson_ready/teachers/biosphere/"
+                                            class="navbar-item "
+                                        >Biosphere</a>
+                                    
+                                        <a
+                                            href="/lesson_ready/teachers/cryosphere/"
+                                            class="navbar-item "
+                                        >Cryosphere</a>
+                                    
+                                        <a
+                                            href="/lesson_ready/teachers/atmosphere/"
+                                            class="navbar-item "
+                                        >Atmosphere</a>
+                                    
+                                        <a
+                                            href="/lesson_ready/teachers/oceans/"
+                                            class="navbar-item "
+                                        >Oceans</a>
+
+                                        <a
+                                            href="/lesson_ready/teachers/primary/"
+                                            class="navbar-item "
+                                         >Primary School Resources</a>
+                                    
+                                </div>
+                            </div>
+                        
+                    
+                        
+                            <div class="navbar-item has-dropdown is-hoverable ">
+                                <a
+                                    href="/lesson_ready/students/overview/"
+                                    class="navbar-link "
+                                >For Students</a>
+                                <div class="navbar-dropdown">
+                                    
+                                        <a
+                                            href="/lesson_ready/students/overview/"
+                                            class="navbar-item "
+                                        >Overview</a>
+                                    
+                                        <a
+                                            href="/lesson_ready/students/Intro-to-EO/"
+                                            class="navbar-item "
+                                        >Intro to EO</a>
+                                    
+                                        <a
+                                            href="/lesson_ready/students/handson/"
+                                            class="navbar-item "
+                                        >Hands on with Data</a>
+                                    
+                                        <a
+                                            href="/lesson_ready/students/biosphere/"
+                                            class="navbar-item "
+                                        >Biosphere</a>
+                                    
+                                        <a
+                                            href="/lesson_ready/students/cryosphere/"
+                                            class="navbar-item "
+                                        >Cryosphere</a>
+                                    
+                                        <a
+                                            href="/lesson_ready/students/atmosphere/"
+                                            class="navbar-item "
+                                        >Atmosphere</a>
+                                    
+                                        <a
+                                            href="/lesson_ready/students/oceans/"
+                                            class="navbar-item "
+                                        >Oceans</a>
+
+                                        <a
+                                            href="/lesson_ready/students/primary/"
+                                            class="navbar-item "
+                                         >Primary School Resources</a>
+                                    
+                                </div>
+                            </div>
+                        
+                    
+                        
+                            <div class="navbar-item has-dropdown is-hoverable ">
+                                <a
+                                    href="/Modules/All-Modules/"
+                                    class="navbar-link "
+                                >Additional Resources</a>
+                                <div class="navbar-dropdown">
+                                    
+                                        <a
+                                            href="/Modules/Intro-to-EO/"
+                                            class="navbar-item "
+                                        >Introduction to Earth Observation</a>
+                                    
+                                        <a
+                                            href="/Modules/HandsOn/"
+                                            class="navbar-item "
+                                        >Hands on with Data</a>
+                                    
+                                        <a
+                                            href="/Modules/Biosphere/"
+                                            class="navbar-item "
+                                        >Biosphere</a>
+                                    
+                                        <a
+                                            href="/Modules/Cryosphere/"
+                                            class="navbar-item "
+                                        >Cryosphere</a>
+                                    
+                                        <a
+                                            href="/Modules/Atmosphere/"
+                                            class="navbar-item "
+                                        >Atmosphere</a>
+                                    
+                                        <a
+                                            href="/Modules/Oceans/"
+                                            class="navbar-item "
+                                        >Oceans</a>
+                                    
+                                        <a
+                                            href="/Modules/Curriculum/"
+                                            class="navbar-item "
+                                        >Curriculum Links</a>
+                                    
+                                </div>
+                            </div>
+                        
+                    
+                        
+                            <a
+                                href="/Contact/"
+                                class="navbar-item "
+                            >Contact</a>
+                        
+                    
+                
+            </div>
+
+            <div class="navbar-end">
+                
+            </div>
+        </div>
+    </div>
+</nav>
+
+        
+            <section
+    class="hero  is-medium  is-bold is-primary"
+    
+        style="background: url('/img/sierra-leone.jpg') no-repeat center center; background-size: cover;"
+    
+>
+    <div class="hero-body ">
+        <div class="container">
+            <h1 class="title is-2">SatSchool News</h1>
+            <p class="subtitle is-3"></p>
+            
+        </div>
+    </div>
+</section>
+
+        
+        
+
+        <section class="section">
+            <div class="container">
+                <div class="columns is-multiline">
+                    
+                    <div class="column is-12">
+                        
+
+                        
+
+                        
+
+                        
+    
+    
+        <div class="columns is-multiline">
+            <div class="column is-12">
+                <p class="title is-3 has-text-centered"></p>
+            </div>
+            
+                <div class="column is-4-desktop is-6-tablet">
+                    <div class="card">
+                        <div class="card-image">
+                            <div x-data="{ open: false }" markdown="0">
+    <a x-on:click="open = true" title="View large image">
+        <figure class="image ">
+            <img src="http://localhost:4000/img/news/dynamic_earth.jpg" alt="SatSchool at Dynamic Earth event">
+        </figure>
+    </a>
+    <div class="modal" x-bind:class="open ? 'is-active' : ''" x-cloak>
+        <div class="modal-background" x-on:click="open = false"></div>
+        <div class="modal-content">
+            
+                <img src="http://localhost:4000/img/news/dynamic_earth.jpg" alt="SatSchool at Dynamic Earth event">
+            
+        </div>
+        <button class="modal-close is-large" aria-label="close" x-on:click="open = false"></button>
+    </div>
+</div>
+
+                        </div>
+                        <div class="card-content">
+                            <div class="content">
+                                <h3 id="satschool-members-attend-a-stem-careers-event-at-our-dynamic-earth"><a href="/News/NEWS_STEMCareers_ODE">SatSchool members attend a STEM Careers event at Our Dynamic Earth</a></h3>
+<h4 id="march-2024">March 2024</h4>
+<p>The event was enjoyed by six hundred secondary school pupils from across Edinburgh &amp; the Lothians, looking for inspiration for future careers in STEM.</p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            
+                <div class="column is-4-desktop is-6-tablet">
+                    <div class="card">
+                        <div class="card-image">
+                            <div x-data="{ open: false }" markdown="0">
+    <a x-on:click="open = true" title="View large image">
+        <figure class="image is-250by200">
+            <img src="http://localhost:4000/img/news/Sat_School_r1-01.png" alt="Ogden Trust logo">
+        </figure>
+    </a>
+    <div class="modal" x-bind:class="open ? 'is-active' : ''" x-cloak>
+        <div class="modal-background" x-on:click="open = false"></div>
+        <div class="modal-content">
+            
+                <img src="http://localhost:4000/img/news/Sat_School_r1-01.png" alt="Ogden Trust logo">
+            
+        </div>
+        <button class="modal-close is-large" aria-label="close" x-on:click="open = false"></button>
+    </div>
+</div>
+
+                        </div>
+                        <div class="card-content">
+                            <div class="content">
+                                <h3 id="satschool-expands-the-physics-content-in-resources-thanks-to-a-grant-from-the-ogden-trust"><a href="https://www.ogdentrust.com/about-us/news/the-appliance-of-science/">SatSchool expands the physics content in resources thanks to a grant from the Ogden Trust</a></h3>
+<h4 id="may-2023">May 2023</h4>
+<p>Using a grant from the Ogden Trust, SatSchool has been able to better incorporate physics principles into the modules to enhance the educational resources and inspire the next generation of scientists. Click the link above for the full story and check out the Twitter thread <a href="https://twitter.com/SatSchool_/status/1668983699818381313">here</a>.</p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            
+                <div class="column is-4-desktop is-6-tablet">
+                    <div class="card">
+                        <div class="card-image">
+                            <div x-data="{ open: false }" markdown="0">
+    <a x-on:click="open = true" title="View large image">
+        <figure class="image is-250by200">
+            <img src="http://localhost:4000/img/news/satschool_launch_news.jpg" alt="picture of Satschool members">
+        </figure>
+    </a>
+    <div class="modal" x-bind:class="open ? 'is-active' : ''" x-cloak>
+        <div class="modal-background" x-on:click="open = false"></div>
+        <div class="modal-content">
+            
+                <img src="http://localhost:4000/img/news/satschool_launch_news.jpg" alt="picture of Satschool members">
+            
+        </div>
+        <button class="modal-close is-large" aria-label="close" x-on:click="open = false"></button>
+    </div>
+</div>
+
+                        </div>
+                        <div class="card-content">
+                            <div class="content">
+                                <h3 id="satschool-launches-the-classroom-into-space"><a href="https://eo-cdt.org/satschool-launches-the-classroom-into-space/">SatSchool Launches the Classroom into Space</a></h3>
+<h4 id="june-2022">June 2022</h4>
+<p>On 6th April the SatSchool outreach project was launched at a hybrid meeting, showcasing the results of the team’s hard work over the past six months to put this fantastic program together.</p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            
+                <div class="column is-4-desktop is-6-tablet">
+                    <div class="card">
+                        <div class="card-image">
+                            <div x-data="{ open: false }" markdown="0">
+    <a x-on:click="open = true" title="View large image">
+        <figure class="image is-250by200">
+            <img src="http://localhost:4000/img/news/Sat_School_r1-01.png" alt="SatSchool logo">
+        </figure>
+    </a>
+    <div class="modal" x-bind:class="open ? 'is-active' : ''" x-cloak>
+        <div class="modal-background" x-on:click="open = false"></div>
+        <div class="modal-content">
+            
+                <img src="http://localhost:4000/img/news/Sat_School_r1-01.png" alt="SatSchool logo">
+            
+        </div>
+        <button class="modal-close is-large" aria-label="close" x-on:click="open = false"></button>
+    </div>
+</div>
+
+                        </div>
+                        <div class="card-content">
+                            <div class="content">
+                                <h3 id="sense-students-win-a-nerc-grant-to-develop-satschool"><a href="https://eo-cdt.org/sense-students-win-funding-for-satschool/">SENSE students win a NERC grant to develop ‘SatSchool’</a></h3>
+<h4 id="december-2021">December 2021</h4>
+<p>SatSchool is an outreach project aiming to get secondary school pupils excited about Earth Observation and Satellites.</p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            
+        </div>
+    
+
+
+                        
+<div class="content">
+    <center>
+<a class="twitter-timeline" data-width="500" data-height="500" data-dnt="true" href="https://twitter.com/SatSchool_?ref_src=twsrc%5Etfw">Tweets by SatSchool_</a> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
+
+<p><br /></p>
+
+</div>
+
+                    </div>
+                    
+                </div>
+            </div>
+        </section>
+        
+            <footer class="footer">
+    <div class="container">
+        
+            <div class="columns is-multiline">
+                
+                    <div class="column has-text-centered">
+                        <div>
+                            <a href="https://eo-cdt.org/" class="link">SENSE CDT</a>
+                        </div>
+                    </div>
+                
+                    <div class="column has-text-centered">
+                        <div>
+                            <a href="https://spacehubyorkshire.org/" class="link">Space Hub Yorkshire</a>
+                        </div>
+                    </div>
+                
+                    <div class="column has-text-centered">
+                        <div>
+                            <a href="/Contact/" class="link">Contact</a>
+                        </div>
+                    </div>
+                
+            </div>
+        
+
+        <div class="content is-small has-text-centered">
+            <p class="">Theme built by <a href="https://www.csrhymes.com">C.S. Rhymes</a></p>
+        </div>
+    </div>
+</footer>
+
+        
+        <script src="/assets/js/app.js" type="text/javascript"></script><footer style="background-color: #f4f4f4; padding: 20px; text-align: center;">
+    <p style="font-weight: bold; font-size: 1em; color: #333;">
+        Fair use statement:
+        SatSchool materials are made openly available for educational purposes only. 
+        If you utilise these resources for your teaching or outreach, please credit ‘SatSchool’ as the source.
+    </p>
+</footer>
+
+<img src="/img/satschool-footer.png" alt="SatSchool footer" class="footer-image"> 
+</body>
+</html>
