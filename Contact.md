@@ -15,22 +15,23 @@ show_sidebar: false
 ---
 ### We'd love to hear from you if:
 
-- You want to use SatSchool materials
-- You want to organise a visit from an Earth Observation Ambassador to deliver an outreach session in person
-- You want to contribute to the development of SatSchool
+- You want to use SatSchool materials or need guidance on using them.
+- You want to organise a visit from SatSchool to deliver an outreach session.
+- You want to contribute to the development of SatSchool materials.
+- You want to join the SatSchool Committee - we meet bi-weekly to maintain and discuss the future of the project.
 
-### You can get in touch with us at: [satschool.outreach@gmail.com](mailto:satschool.outreach@gmail.com)
+We are also very open to receiving feedback so that these resources can be improved!
 
-### Or fill out our enquiry [form](https://forms.gle/umUURaTw4jBPAnZp7)
+### Please don't hesitate to get in touch at: [satschool.outreach@gmail.com](mailto:satschool.outreach@gmail.com)
 
-### Follow us on Twitter: [@SatSchool_](https://twitter.com/SatSchool_)
+### Follow us on BlueSky: [@SatSchool](https://bsky.app/profile/satschool.bsky.social)
 
-### Become an EO Ambassador:
+### Join our mailing list:
 
-- Be first to know about SatSchool outreach opportunities near you
-- Be part of the EO outreach community 
-- Be a recognised EO Ambassador on the SatSchool website
+- Be part of the EO outreach community
+- Receive our **quarterly newsletter** with updates on SatSchool activities
+- **Exciting outreach opportunities** delivered to your inbox
 
-If you want to become an EO Ambassador, sign up [here](http://eepurl.com/i0znr6)
+Sign up [here](http://eepurl.com/i0znr6)
 
 <br/><br/><br/><br/><br/>
