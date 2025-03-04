@@ -15,12 +15,12 @@ show_sidebar: false
 ---
 ### We'd love to hear from you if:
 
-- You want to use SatSchool materials or need guidance on using them.
-- You want to organise a visit from SatSchool to deliver an outreach session.
-- You want to contribute to the development of SatSchool materials.
-- You want to join the SatSchool Committee - we meet bi-weekly to maintain and discuss the future of the project.
+- You want to use SatSchool materials or need **guidance** on using them.
+- You want to **organise a visit** from SatSchool to deliver an outreach session.
+- You want to **contribute to the development** of SatSchool materials.
+- You want to **join the SatSchool Committee** - we meet bi-weekly to maintain and discuss the future of the project.
 
-We are also very open to receiving feedback so that these resources can be improved!
+We are also very open to receiving **feedback** so that these resources can be improved!
 
 ### Please don't hesitate to get in touch at: [satschool.outreach@gmail.com](mailto:satschool.outreach@gmail.com)
 
