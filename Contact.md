@@ -25,6 +25,7 @@ We are also very open to receiving feedback so that these resources can be impro
 ### Please don't hesitate to get in touch at: [satschool.outreach@gmail.com](mailto:satschool.outreach@gmail.com)
 
 ### Follow us on BlueSky: [@SatSchool](https://bsky.app/profile/satschool.bsky.social)
+### Follow us on [LinkedIn](https://www.linkedin.com/company/satschool-outreach/) 
 
 ### Join our mailing list:
 
