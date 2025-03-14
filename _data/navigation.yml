@@ -32,6 +32,8 @@
     link: /lesson_ready/teachers/atmosphere/
   - name: Oceans
     link: /lesson_ready/teachers/oceans/
+  - name: Primary School Lessons
+    link: /lesson_ready/teachers/primary/
 - name: For Students
   link: /lesson_ready/students/overview/
   dropdown:
@@ -49,6 +51,8 @@
     link: /lesson_ready/students/atmosphere/
   - name: Oceans
     link: /lesson_ready/students/oceans/
+  - name: Primary School Lessons
+    link: /lesson_ready/students/primary/
 - name: Additional Resources
   link: Modules/All-Modules/
   dropdown:
