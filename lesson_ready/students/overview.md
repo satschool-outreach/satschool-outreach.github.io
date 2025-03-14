@@ -144,7 +144,7 @@ show_sidebar: false
 >         <p><a href="https://docs.google.com/presentation/d/1Pkca-U2o0UB2A-2bigiK6uXHMPeZPpRR/edit?usp=drive_link&ouid=116366667872663722927&rtpof=true&sd=true" target="_blank">Presentation</a></p>
 >         <h5>Activities:</h5>
 >         <ul>
->             <li><a href="https://drive.google.com/file/d/1x4DxhzeMzQ73VDNTDF98EcdhWPcdYWdJ/view?usp=drive_link" target="_blank">Worksheet</a></li>
+>             <li><a href="https://drive.google.com/file/d/1udwaNLFQw1-MpAKnp4aI45d8O58VOOgQ/view?usp=sharing" target="_blank">Worksheet</a></li>
 >         </ul>
 > <h4>Lesson 2: Wildlife from Space</h4>
 >         <p><a href="https://docs.google.com/presentation/d/1j_Wee0PBfUrjDx0vVUnrb4a3KimSF4af/edit?usp=drive_link&ouid=116366667872663722927&rtpof=true&sd=true" target="_blank">Presentation</a></p>
