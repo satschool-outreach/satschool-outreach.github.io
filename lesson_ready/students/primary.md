@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lesson Ready Resources
-subtitle: Atmosphere
+subtitle: Primary School
 hero_height: is-small
 #hero_link: /page-1/
 #hero_link_text: Example Call To Action
