@@ -20,7 +20,7 @@ show_sidebar: false
 <div class="image-text-container">
     <!-- Text beside the image -->
     <div class="text-content">
-<h4>Lesson 1: Intro to EO </h4>
+<h4>Lesson 1: Intro to Earth Observation </h4>
         <p><a href="https://docs.google.com/presentation/d/1ureLU8kI9oJfrPzbk7RMsr_XeF9_cU15VLcJDFDlTxY/edit#slide=id.p2" target="_blank">Presentation</a></p>
         <p><a href="https://www.canva.com/design/DAGetxWbjWA/JqW7u9wQwFQ2jw8c07k9Ag/edit" target="_blank">Worksheet</a></p>
 
