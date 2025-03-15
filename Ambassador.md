@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Earth Observation Ambassador Network
-#subtitle: Earth observation outreach in schools
+title: Mailing List 
+#subtitle: Earth observation outreach opportunities
 hero_height: is-medium
 #hero_link: /page-1/
 #hero_link_text: Example Call To Action
@@ -13,15 +13,15 @@ show_sidebar: false
 #showcase: all-modules-showcase
 #gallery: footer-image
 ---
-SatSchool is run by a network of PhD students who are are all Earth Observation Ambassadors.
 
-The key aim of an EO Ambassador is to inspire the next generation of EO scientists through delivering outreach activities. As an EO Ambassador you will gain access to ready-to-use resources and develop invaluable outreach skills.
 
-### Become an EO Ambassador:
-- Be first to know about SatSchool outreach opportunities near you
+### Join our mailing list:
+
 - Be part of the EO outreach community
-- Be a recognised EO Ambassador on the SatSchool website
+- Receive our quarterly newsletter with updates on SatSchool activities
+- Exciting outreach opportunities delivered to your inbox
 
-### If you want to become an EO Ambassador, sign up [here](http://eepurl.com/i0znr6)
+
+### If you want join our mailing list, sign up [here](http://eepurl.com/i0znr6)
 
 <br/><br/><br/><br/><br/>
