@@ -22,6 +22,6 @@ show_sidebar: false
 - Exciting outreach opportunities delivered to your inbox
 
 
-### If you want join our mailing list, sign up [here](http://eepurl.com/i0znr6)
+### Sign up [here](http://eepurl.com/i0znr6)
 
 <br/><br/><br/><br/><br/>
