@@ -32,7 +32,6 @@ show_sidebar: false
 >    <div class="text-content">
 >    <h4>Lesson 1: Intro to EO </h4>
 >             <li><a href="https://docs.google.com/presentation/d/1ureLU8kI9oJfrPzbk7RMsr_XeF9_cU15VLcJDFDlTxY/edit#slide=id.p2" target="_blank">Presentationt</a></li>
->    <ul>
 >             <li><a href="https://www.canva.com/design/DAGetxWbjWA/JqW7u9wQwFQ2jw8c07k9Ag/edit" target="_blank">Worksheet</a></li>
 >         </ul>
 >    <h4>Lesson 2: Wildlife From Space </h4>
