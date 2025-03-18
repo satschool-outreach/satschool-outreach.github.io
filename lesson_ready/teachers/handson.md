@@ -20,7 +20,7 @@ show_sidebar: false
     <!-- Text beside the image -->
     <div class="text-content">
         <p><a href="https://drive.google.com/file/d/1sBwywlRkuD2TggLDRLSgQJUBECJGOHF5/view?usp=drive_link" target="_blank">Lesson Plan</a></p>
-        <p><a href="https://drive.google.com/file/d/1ot3F_emLKhIAw6P-TPPB3mORznqYBldn/view?usp=drive_link" target="_blank">Presentation</a></p>
+        <p><a href="https://docs.google.com/presentation/d/11kRRyYCJRntA7tY4fS9biaRCce-22NBF/edit?usp=share_link&ouid=114457288916061015161&rtpof=true&sd=true" target="_blank">Presentation</a></p>
         <h5>Activities:</h5>
         <ul>
             <li><a href="https://drive.google.com/file/d/1jmsxKvZRenApZbovJ7gcVZ4OL9QjxJZI/view?usp=drive_link" target="_blank">Worksheets</a></li>
