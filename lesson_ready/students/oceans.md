@@ -33,7 +33,7 @@ show_sidebar: false
             <li><a href="https://drive.google.com/file/d/1ajKskwyoxjlkjc41x_GdYKOyDsNqIKKC/view?usp=drive_link" target="_blank">Worksheet</a></li>
         </ul>
 <h4>Lesson 3: Ocean Colour from Space</h4>
-        <p><a href="https://docs.google.com/presentation/d/10IKYeHHFoNWsh0oaXbfuntVPZllHM4La/edit?usp=drive_link&ouid=116366667872663722927&rtpof=true&sd=true" target="_blank">Presentation</a></p>
+        <p><a href="https://docs.google.com/presentation/d/15xMtHjZnJDwnMLqClKEAC2PZI3s_xQ13/edit?usp=share_link&ouid=114457288916061015161&rtpof=true&sd=true" target="_blank">Presentation</a></p>
         <h5>Activities:</h5>
         <ul>
             <li><a href="https://drive.google.com/file/d/1G0zhbEUkwV5UVLiYN8v2A_biB286x873/view?usp=drive_link" target="_blank">Worksheet</a></li>
