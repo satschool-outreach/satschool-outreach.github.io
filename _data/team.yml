@@ -101,6 +101,18 @@
       
       ratio: is-250by200
 
+    - link: /img/team/Seonaid_Rapach.jpeg
+      alt: image of Seonaid Rapach
+      description: |-
+        ## Seonaid Rapach (she/her)
+        **External Communications**
+        #### Researcher profile:
+        - Seonaid is pursuing a PhD at the University of Strathclyde, exploring how satellite imagery can be used as legal evidence in criminal courts.
+        - She studied Astrophysics for her Bachelor’s degree, but then she transitioned to applied science through a Master’s in ‘Satellite Data for Sustainable Development’, i.e observing Space from Earth to analyzing Earth from Space.
+        - Seonaid is passionate about learning the relationship between society and nature, a crucial aspect of her research, because satellites monitor human behaviour through the environmental evidence they leave behind. 
+      
+      ratio: is-250by200
+
 - title: Alumni and Content Creators
   images:
     - link: /img/team/calum-hoad.png
