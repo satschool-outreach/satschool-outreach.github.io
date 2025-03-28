@@ -20,6 +20,10 @@
   dropdown:
   - name: Overview
     link: /lesson_ready/teachers/overview/
+  - name: Gaelic Language Module
+    link: /lesson_ready/teachers/Gaelic/
+  - name: Primary School Lessons
+    link: /lesson_ready/teachers/primary/
   - name: Intro to EO
     link: /lesson_ready/teachers/Intro-to-EO/
   - name: Hands on with Data
@@ -32,13 +36,15 @@
     link: /lesson_ready/teachers/atmosphere/
   - name: Oceans
     link: /lesson_ready/teachers/oceans/
-  - name: Primary School Lessons
-    link: /lesson_ready/teachers/primary/
 - name: For Students
   link: /lesson_ready/students/overview/
   dropdown:
   - name: Overview
     link: /lesson_ready/students/overview/
+  - name: Gaelic Language Module
+    link: /lesson_ready/students/Gaelic/
+  - name: Primary School Lessons
+    link: /lesson_ready/students/primary/
   - name: Intro to EO
     link: /lesson_ready/students/Intro-to-EO/
   - name: Hands on with Data
@@ -51,8 +57,6 @@
     link: /lesson_ready/students/atmosphere/
   - name: Oceans
     link: /lesson_ready/students/oceans/
-  - name: Primary School Lessons
-    link: /lesson_ready/students/primary/
 - name: Additional Resources
   link: Modules/All-Modules/
   dropdown:
