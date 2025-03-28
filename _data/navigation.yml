@@ -20,10 +20,12 @@
   dropdown:
   - name: Overview
     link: /lesson_ready/teachers/overview/
-  - name: Gaelic
+  - name: Gaelic Language
     link: /lesson_ready/teachers/Gaelic/
   - name: Primary Module
     link: /lesson_ready/teachers/primary/
+    dropdown: Secondary School
+    link: /lesson_ready/teachers/overview/
   - name: Intro to EO
     link: /lesson_ready/teachers/Intro-to-EO/
   - name: Hands on with Data
@@ -41,7 +43,7 @@
   dropdown:
   - name: Overview
     link: /lesson_ready/students/overview/
-  - name: Gaelic
+  - name: Gaelic Language
     link: /lesson_ready/students/Gaelic/
   - name: Primary Module
     link: /lesson_ready/students/primary/
