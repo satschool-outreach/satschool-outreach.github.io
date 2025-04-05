@@ -187,3 +187,16 @@ show_sidebar: false
 >         </figure>
 >     </div>
 > </div>
+
+<!-- > ### [Gaelic](../Gaelic)
+> <div class="image-text-container">
+>     <!-- Text beside the image -->
+>     <div class="text-content">
+>         <p><a href="https://drive.google.com/file/d/1QwuALeUsaljrx_lYauQOv69P2SW02P6n/view?usp=share_link" target="_blank">Presentation</a></p>
+>         <p><a href="https://drive.google.com/file/d/19AKuXTBcN-GhPin1N8cmRYNK0-POheVN/view?usp=share_link" target="_blank">Worksheet</a></li>
+>         </ul>
+
+-->
+
+
+
