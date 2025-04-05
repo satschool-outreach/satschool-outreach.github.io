@@ -47,5 +47,3 @@ show_sidebar: false
         </figure>
     </div>
 </div>
-
-https://drive.google.com/file/d/1udwaNLFQw1-MpAKnp4aI45d8O58VOOgQ/view?usp=sharing
