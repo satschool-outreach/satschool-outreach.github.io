@@ -34,6 +34,8 @@
     link: /lesson_ready/teachers/oceans/
   - name: Primary School Module
     link: /lesson_ready/teachers/primary/
+# - name: Gaelic Module --> 
+#   link: /lesson_ready/teachers/Gaelic/
 - name: For Students
   link: /lesson_ready/students/overview/
   dropdown:
@@ -53,6 +55,8 @@
     link: /lesson_ready/students/oceans/
   - name: Primary School Module
     link: /lesson_ready/students/primary/
+# - name: Gaelic Module --> 
+#   link: /lesson_ready/students/Gaelic/
 - name: Additional Resources
   link: Modules/All-Modules/
   dropdown:
