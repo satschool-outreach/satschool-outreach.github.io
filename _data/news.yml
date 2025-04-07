@@ -1,7 +1,13 @@
 - title: 
   images:
-    - link: img/news/NewResources.png
+    - link: img/news/EventsSpring2025.png
       alt: SatSchool at Dynamic Earth event
+      description: |-
+        ### [Spring 2025 Events](/News/Spring2025EEvents)
+        #### April 2025
+        Event reports from the Dynamic Earth Careers Showcase (Edinburgh), Craigour Park School Visit (Edinburgh) and Explore the Environment from Space Day (Leeds). 
+    - link: img/news/NewResources.png
+      alt: Primary School Resources Banner
       description: |-
         ### [New Primary School Resources](https://satschool-outreach.github.io/lesson_ready/teachers/primary/)
         #### April 2025
