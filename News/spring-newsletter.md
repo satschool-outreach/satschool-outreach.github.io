@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Spring 2025 Events
+title: Spring Newsletter
 hero_height: is-medium
-author: Catherine Mercer
+author: Leam Howe
 hero_image: /img/sierra-leone.jpg
-date: 07-04-2025
+date: 28-04-2025
 show_sidebar: false
-
-
 ---
 
 
