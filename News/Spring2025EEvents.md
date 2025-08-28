@@ -3,7 +3,7 @@ layout: post
 title: Spring 2025 Events
 hero_height: is-medium
 author: Catherine Mercer
-hero_image: img/news/EventsSpring2025.png
+hero_image: /img/news/EventsSpring2025.png
 date: 07-04-2025
 show_sidebar: false
 
