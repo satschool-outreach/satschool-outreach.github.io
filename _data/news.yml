@@ -1,6 +1,12 @@
 - title: 
   images:
     - link: img/news/EventsSpring2025.png
+      alt: Spring 2025 Newsletter
+      description: |-
+        ### [Spring 2025 Newsletter](/News/spring-newsletter)
+        #### April 2025
+        Read our Spring 2025 newsletter.
+    - link: img/news/EventsSpring2025.png
       alt: SatSchool at Dynamic Earth event
       description: |-
         ### [Spring 2025 Events](/News/Spring2025EEvents)

@@ -4,7 +4,7 @@ title: Spring Newsletter
 hero_height: is-medium
 author: Leam Howe
 hero_image: /img/sierra-leone.jpg
-date: 28-04-2025
+date: 2025-04-28
 show_sidebar: false
 ---
 
