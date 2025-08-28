@@ -1,3 +1,16 @@
+---
+layout: post
+title: Spring 2025 Events
+hero_height: is-medium
+author: Catherine Mercer
+hero_image: /img/sierra-leone.jpg
+date: 07-04-2025
+show_sidebar: false
+
+
+---
+
+
 # Spring Newsletter
 
 <img width="1655" height="2340" alt="April 2025 Newsletter_Page_1" src="https://github.com/user-attachments/assets/f8184387-ee11-4167-b2af-ba46a250eaab" />
