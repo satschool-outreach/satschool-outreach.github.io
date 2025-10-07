@@ -49,7 +49,7 @@ show_sidebar: false
             </div>
             <div class="card-content">
                 <div class="content">
-                    <h4><a href="https://storymaps.arcgis.com/stories/446d589226544403b86abb786829d5f8">Biosphere Storymap</a></h4>
+                    <h4><a href="https://arcg.is/1aTWLC0">Biosphere Storymaps</a></h4>
                     <p>This StoryMap aims to teach Earth Observation principles for monitoring the biosphere from space. We are going to cover:</p>
                     <ul>
                         <li>What is the biosphere?</li>
