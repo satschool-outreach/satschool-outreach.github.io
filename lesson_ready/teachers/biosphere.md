@@ -20,7 +20,7 @@ show_sidebar: false
 <div class="image-text-container">
     <!-- Text beside the image -->
     <div class="text-content">
-    <p><a href="https://storymaps.arcgis.com/stories/446d589226544403b86abb786829d5f8" target="_blank">StoryMap</a></p>
+    <p><a href="https://arcg.is/1aTWLC0" target="_blank">StoryMap Collection</a></p>
         <p><a href="https://drive.google.com/file/d/13lFY-GDd-JayrKL3LjybAoG7eLMoyxnV/view?usp=drive_link" target="_blank">Lesson Plan</a></p>
         <p><a href="https://docs.google.com/presentation/d/10Zqdjepoa1leas8pHbDIWqscRMUMNHCY/edit?usp=drive_link&ouid=116366667872663722927&rtpof=true&sd=true" target="_blank">Presentation</a></p>
         <h5>Activities:</h5>
