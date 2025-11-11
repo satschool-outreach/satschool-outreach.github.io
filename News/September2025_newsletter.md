@@ -3,7 +3,7 @@ layout: post
 title: SatSchool at STEM careers event at Our Dynamic Earth
 hero_height: is-medium
 author: Catherine Mercer
-hero_image: /img/news/dynamic_earth.jpg
+hero_image: img/news/Living_planet.png
 date: 11-11-2025
 show_sidebar: false
 
