@@ -1,5 +1,11 @@
 - title: 
   images:
+   - link: img/news/NewResources.png
+      alt: Autumn 2025 Newsletter
+      description: |-
+        ### [Autumn 2025 Newsletter](News/September2025_newsletter.md)
+        #### April 2025
+        Read our Spring 2025 newsletter.
     - link: img/news/gaelic.png
       alt: Spring 2025 Newsletter
       description: |-
