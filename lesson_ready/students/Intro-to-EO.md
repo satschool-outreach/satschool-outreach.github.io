@@ -19,7 +19,7 @@ show_sidebar: false
 <div class="image-text-container">
     <!-- Text beside the image -->
     <div class="text-content">
-    <p><a href="https://arcg.is/1GSKWv" target="_blank">StoryMap</a></p>
+    <p><a href="https://drive.google.com/file/d/1_4GGsFk6dOhM1j4Yn3Lg-k07BDQfinl3/view?usp=share_link" target="_blank">StoryMap</a></p>
         <p><a href="https://docs.google.com/presentation/d/1DtLDl2TF6vHQxkGdlKsbvcCGsKM3x7FU/edit?usp=drive_link&ouid=116366667872663722927&rtpof=true&sd=true" target="_blank">Presentation</a></p>
         <p><a href="https://docs.google.com/presentation/d/1y7VpEH7wmustkRxZaiRHm4B2ekM5U4c-/edit?usp=drive_link&ouid=116366667872663722927&rtpof=true&sd=true" target="_blank">Presentation (Short version)</a></p>
         <h5>Activities:</h5>
