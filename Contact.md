@@ -33,6 +33,6 @@ We are also very open to receiving **feedback** so that these resources can be i
 - Receive our **quarterly newsletter** with updates on SatSchool activities
 - **Exciting outreach opportunities** delivered to your inbox
 
-Sign up [here](http://eepurl.com/i0znr6)
+#### Sign up [here](http://eepurl.com/i0znr6)
 
 <br/><br/><br/><br/><br/>
