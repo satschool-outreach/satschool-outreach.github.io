@@ -31,4 +31,7 @@ show_sidebar: false
         <p><a href="https://drive.google.com/file/d/1QwuALeUsaljrx_lYauQOv69P2SW02P6n/view?usp=share_link" target="_blank">Taisbeanadh (Presentation)</a></p>
         <p><a href="https://drive.google.com/file/d/19AKuXTBcN-GhPin1N8cmRYNK0-POheVN/view?usp=share_link" target="_blank">Duilleag-obrach (Worksheet)</a></p>
 
-<h4> Le taing do Hannah Gillies (Comhairle Nan Eilean Siar) airson a cuideachadh le bhith ag eadar-theangachadh nan goireasan (With thanks to Hannah Gillies (Comhairle Nan Eilean Siar) for help translating the resources)</h4>
+
+<h4>Le taing do Hannah Gillies (Comhairle Nan Eilean Siar) airson a cuideachadh le bhith ag eadar-theangachadh nan goireasan</h4>
+
+<h4>With thanks to Hannah Gillies (Comhairle Nan Eilean Siar) for help translating the resources</h4>
