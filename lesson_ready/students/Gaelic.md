@@ -31,4 +31,5 @@ show_sidebar: false
 
    
 
-<h4> With thanks to Hannah Gillies from Comhairle Nan Eilean Siar for help translating the resources</h4>
+<h4> <h4> Le taing do Hannah Gillies (Comhairle Nan Eilean Siar) airson a cuideachadh le bhith ag eadar-theangachadh nan goireasan (With thanks to Hannah Gillies (Comhairle Nan Eilean Siar) for help translating the resources)</h4>
+
