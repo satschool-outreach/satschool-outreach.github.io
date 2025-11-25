@@ -24,5 +24,11 @@ show_sidebar: false
 <h4>Lesson 1: Beathaichean bhon Adhar (Wildflife from space)</h4>
         <p><a href="https://drive.google.com/file/d/1QwuALeUsaljrx_lYauQOv69P2SW02P6n/view?usp=share_link" target="_blank">Taisbeanadh (Presentation)</a></p>
         <p><a href="https://drive.google.com/file/d/19AKuXTBcN-GhPin1N8cmRYNK0-POheVN/view?usp=share_link" target="_blank">Duilleag-obrach (Worksheet)</a></p>
+
+<h4>Lesson 2: Beathaichean bhon Adhar (Intro to Earth Observation)</h4>
+        <p><a href="https://drive.google.com/file/d/1QwuALeUsaljrx_lYauQOv69P2SW02P6n/view?usp=share_link" target="_blank">Taisbeanadh (Presentation)</a></p>
+        <p><a href="https://drive.google.com/file/d/19AKuXTBcN-GhPin1N8cmRYNK0-POheVN/view?usp=share_link" target="_blank">Duilleag-obrach (Worksheet)</a></p>
+
    
 
+<h4> With thanks to Hannah Gillies from Comhairle Nan Eilean Siar for help translating the resources</h4>
