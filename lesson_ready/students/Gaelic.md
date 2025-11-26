@@ -26,10 +26,9 @@ show_sidebar: false
         <p><a href="https://drive.google.com/file/d/19AKuXTBcN-GhPin1N8cmRYNK0-POheVN/view?usp=share_link" target="_blank">Duilleag-obrach (Worksheet)</a></p>
 
 <h4>Lesson 2: Beathaichean bhon Adhar (Intro to Earth Observation)</h4>
-        <p><a href="https://drive.google.com/file/d/1QwuALeUsaljrx_lYauQOv69P2SW02P6n/view?usp=share_link" target="_blank">Taisbeanadh (Presentation)</a></p>
+        <p><a href="https://docs.google.com/presentation/d/11KOmhnr_M0Y5FuH0L3Fe-6E-WL9eMGpN/edit?usp=share_link&ouid=114457288916061015161&rtpof=true&sd=true" target="_blank">Taisbeanadh (Presentation)</a></p>
         <p><a href="https://drive.google.com/file/d/19AKuXTBcN-GhPin1N8cmRYNK0-POheVN/view?usp=share_link" target="_blank">Duilleag-obrach (Worksheet)</a></p>
 
-   
 
 <h4>Le taing do Hannah Gillies (Comhairle Nan Eilean Siar) airson a cuideachadh le bhith ag eadar-theangachadh nan goireasan</h4>
 
