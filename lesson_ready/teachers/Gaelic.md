@@ -28,7 +28,7 @@ show_sidebar: false
 
 <h4>Lesson 1: Ro-ràdh do Amharc air an Talamh!(Intro to Earth Observation!)</h4>
         <p><a href="https://drive.google.com/file/d/1G-v5qq_HI-ry51IO9cKW5DWP64F4t3Mv/view?usp=share_link" target="_blank">Plana leasain (Lesson Plan)</a></p>
-        <p><a href="https://drive.google.com/file/d/1QwuALeUsaljrx_lYauQOv69P2SW02P6n/view?usp=share_link" target="_blank">Taisbeanadh (Presentation)</a></p>
+        <p><a href="https://docs.google.com/presentation/d/11KOmhnr_M0Y5FuH0L3Fe-6E-WL9eMGpN/edit?usp=sharing&ouid=114457288916061015161&rtpof=true&sd=true" target="_blank">Taisbeanadh (Presentation)</a></p>
         <p><a href="https://drive.google.com/file/d/19AKuXTBcN-GhPin1N8cmRYNK0-POheVN/view?usp=share_link" target="_blank">Duilleag-obrach (Worksheet)</a></p>
 
 
