@@ -46,6 +46,27 @@ Each resource pack contains:
 
 ## Explore Our Modules:
 
+## Gaelic Language Module (Modal Cànain Ghàidhlig)
+
+> ### [Modal Cànain Ghàidhlig](../Gaelic)
+> <div class="image-text-container">
+>    <!-- Text beside the image -->
+>    <div class="text-content">
+>    <h4>Leasan 1: Beathaichean bhon Adhar (Intro to Earth Observation)</h4>
+>             <li><a href="https://docs.google.com/presentation/d/11KOmhnr_M0Y5FuH0L3Fe-6E-WL9eMGpN/edit?usp=share_link&ouid=114457288916061015161&rtpof=true&sd=true" target="_blank">Taisbeanadh (Presentation)</a></li>
+>             <li><a href="https://www.canva.com/design/DAG5y-CchCY/WRo_B_1vRfMIAAADS87LtA/edit?utm_content=DAG5y-CchCY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Duilleag-obrach (Worksheet)</a></li>
+>             <li><a href="https://drive.google.com/file/d/1G-v5qq_HI-ry51IO9cKW5DWP64F4t3Mv/view?usp=share_link">Plana leasain (Lesson Plan)</a></li>
+>          
+>    <h4>Leasan 2: Fiadh-bheatha bhon fhànais (Wildflife from space) </h4>
+>             <li><a href="https://drive.google.com/file/d/1QwuALeUsaljrx_lYauQOv69P2SW02P6n/view?usp=share_link" target="_blank">Taisbeanadh (Presentation)</a></li>
+>             <li><a href="https://drive.google.com/file/d/19AKuXTBcN-GhPin1N8cmRYNK0-POheVN/view?usp=share_link" target="_blank">Duilleag-obrach (Worksheet)</a></li>
+>             <li><a href="https://drive.google.com/file/d/1B4T4fjLVpPFYziKNjG-vntUVVV0id0at/view?usp=share_link">Plana leasain (Lesson Plan)</a></li>  
+>
+>    <h4> With thanks to Hannah Gillies (Comhairle Nan Eilean Siar) for help translating the resources </h4>
+>     </div>
+> </div>
+
+
 
 ## Primary School Modules
 
