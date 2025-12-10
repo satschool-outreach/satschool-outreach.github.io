@@ -20,7 +20,8 @@ show_sidebar: false
 <div class="image-text-container">
     <!-- Text beside the image -->
     <div class="text-content">
-    <p><a href="https://drive.google.com/file/d/1_4GGsFk6dOhM1j4Yn3Lg-k07BDQfinl3/view?usp=share_link" target="_blank">StoryMap</a></p>
+    <!-- <p><a href="https://drive.google.com/file/d/1_4GGsFk6dOhM1j4Yn3Lg-k07BDQfinl3/view?usp=share_link" target="_blank">StoryMap</a></p> -->
+    <p><a href="https://arcg.is/1Wvn4C" target="_blank">StoryMap</a></p>
 <h4>Lesson 1: Ozone from Space</h4>
         <p><a href="https://docs.google.com/presentation/d/1DLTnPd5Nfc72YSdxqKSuu8f5qXV-buiu/edit?usp=drive_link&ouid=116366667872663722927&rtpof=true&sd=true" target="_blank">Presentation</a></p>
         <h5>Activities:</h5>
